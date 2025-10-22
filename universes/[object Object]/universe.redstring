@@ -212,9 +212,9 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-10-22T18:19:26.946Z",
-    "modified": "2025-10-22T18:19:26.946Z",
-    "title": "New Thing",
+    "created": "2025-10-22T18:19:35.947Z",
+    "modified": "2025-10-22T18:19:35.947Z",
+    "title": "Strain Manager",
     "description": "",
     "domain": null,
     "userURIs": null,
@@ -268,7 +268,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-22T18:19:26.946Z"
+          "redstring:lastViewed": "2025-10-22T18:19:35.947Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -279,9 +279,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:a36f6001-a3b5-4d5b-a9bf-9de789bcc925",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "Strain Manager",
         "rdfs:comment": "",
-        "name": "New Thing",
+        "name": "Strain Manager",
         "description": "",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
@@ -313,7 +313,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-22T18:19:26.946Z"
+          "redstring:lastViewed": "2025-10-22T18:19:35.947Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -328,7 +328,7 @@
       "e24a62b8-6322-4b9f-b175-3b72c81e9f3b": {
         "@type": "redstring:SpatialGraph",
         "@id": "graph:e24a62b8-6322-4b9f-b175-3b72c81e9f3b",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "Strain Manager",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
           "a36f6001-a3b5-4d5b-a9bf-9de789bcc925"
@@ -359,7 +359,7 @@
     "e24a62b8-6322-4b9f-b175-3b72c81e9f3b": {
       "@type": "redstring:SpatialGraph",
       "@id": "graph:e24a62b8-6322-4b9f-b175-3b72c81e9f3b",
-      "rdfs:label": "New Thing",
+      "rdfs:label": "Strain Manager",
       "rdfs:comment": "",
       "redstring:definingNodeIds": [
         "a36f6001-a3b5-4d5b-a9bf-9de789bcc925"
@@ -410,7 +410,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-22T18:19:26.946Z"
+        "redstring:lastViewed": "2025-10-22T18:19:35.947Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -421,9 +421,9 @@
         "schema:Thing"
       ],
       "@id": "prototype:a36f6001-a3b5-4d5b-a9bf-9de789bcc925",
-      "rdfs:label": "New Thing",
+      "rdfs:label": "Strain Manager",
       "rdfs:comment": "",
-      "name": "New Thing",
+      "name": "Strain Manager",
       "description": "",
       "rdfs:seeAlso": [
         "https://en.wikipedia.org/wiki/New_Thing",
@@ -455,7 +455,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-22T18:19:26.946Z"
+        "redstring:lastViewed": "2025-10-22T18:19:35.947Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -498,7 +498,7 @@
       "e24a62b8-6322-4b9f-b175-3b72c81e9f3b": {
         "@type": "redstring:SpatialGraph",
         "@id": "graph:e24a62b8-6322-4b9f-b175-3b72c81e9f3b",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "Strain Manager",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
           "a36f6001-a3b5-4d5b-a9bf-9de789bcc925"
@@ -549,7 +549,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-22T18:19:26.946Z"
+          "redstring:lastViewed": "2025-10-22T18:19:35.947Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -560,9 +560,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:a36f6001-a3b5-4d5b-a9bf-9de789bcc925",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "Strain Manager",
         "rdfs:comment": "",
-        "name": "New Thing",
+        "name": "Strain Manager",
         "description": "",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
@@ -594,7 +594,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-22T18:19:26.946Z"
+          "redstring:lastViewed": "2025-10-22T18:19:35.947Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -609,7 +609,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1761157166946,
+        "computedAt": 1761157175947,
         "truncated": false
       }
     }
@@ -617,7 +617,7 @@
   "graphSummaries": {
     "e24a62b8-6322-4b9f-b175-3b72c81e9f3b": {
       "id": "e24a62b8-6322-4b9f-b175-3b72c81e9f3b",
-      "name": "New Thing",
+      "name": "Strain Manager",
       "description": "",
       "nodeCount": 0,
       "edgeCount": 0,
@@ -626,8 +626,8 @@
       "score": 0,
       "nodes": [],
       "edges": [],
-      "text": "Graph: New Thing (e24a62b8-6322-4b9f-b175-3b72c81e9f3b)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1761157166946
+      "text": "Graph: Strain Manager (e24a62b8-6322-4b9f-b175-3b72c81e9f3b)\nNodes (0 total):\n\nEdges (0 total):",
+      "computedAt": 1761157175947
     }
   }
 }
