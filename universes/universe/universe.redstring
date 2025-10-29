@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-10-29T05:06:56.694Z",
-    "modified": "2025-10-29T05:06:56.694Z",
+    "created": "2025-10-29T05:07:30.597Z",
+    "modified": "2025-10-29T05:07:30.597Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -267,17 +267,17 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-29T05:06:56.694Z"
+          "redstring:lastViewed": "2025-10-29T05:07:30.597Z"
         },
         "redstring:abstractionChains": {}
       },
-      "d0428db2-3893-4a47-8fd8-b563c7cbf839": {
+      "fd35654a-6e62-4b9e-85b4-06e1bab2ae1e": {
         "@type": [
           "redstring:Prototype",
           "rdfs:Class",
           "schema:Thing"
         ],
-        "@id": "prototype:d0428db2-3893-4a47-8fd8-b563c7cbf839",
+        "@id": "prototype:fd35654a-6e62-4b9e-85b4-06e1bab2ae1e",
         "rdfs:label": "New Thing",
         "rdfs:comment": "",
         "name": "New Thing",
@@ -306,25 +306,25 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [
-          "73c342cf-ba60-474a-b3ce-f5239a8ca74d"
+          "2955ddd1-054f-453f-9f49-63248aa23616"
         ],
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-29T05:06:56.694Z"
+          "redstring:lastViewed": "2025-10-29T05:07:30.597Z"
         },
         "redstring:abstractionChains": {}
       },
-      "2afbd120-0c1d-419e-aea2-def92c43e272": {
+      "ed67c0df-94bc-433e-8aa0-ad8a24c9eec3": {
         "@type": [
           "redstring:Prototype",
           "rdfs:Class",
           "schema:Thing"
         ],
-        "@id": "prototype:2afbd120-0c1d-419e-aea2-def92c43e272",
-        "rdfs:label": "Test",
+        "@id": "prototype:ed67c0df-94bc-433e-8aa0-ad8a24c9eec3",
+        "rdfs:label": "Ooh nah nah",
         "rdfs:comment": "",
-        "name": "Test",
+        "name": "Ooh nah nah",
         "description": "",
         "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
@@ -348,20 +348,64 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-29T05:06:56.694Z"
+          "redstring:lastViewed": "2025-10-29T05:07:30.597Z"
         },
         "redstring:abstractionChains": {}
       },
-      "2f322210-d133-4566-b9d9-6ab9509cb564": {
+      "cd579a42-46d0-4eb6-b97c-57ea5a37d5e7": {
         "@type": [
           "redstring:Prototype",
           "rdfs:Class",
           "schema:Thing"
         ],
-        "@id": "prototype:2f322210-d133-4566-b9d9-6ab9509cb564",
-        "rdfs:label": "eaeae",
+        "@id": "prototype:cd579a42-46d0-4eb6-b97c-57ea5a37d5e7",
+        "rdfs:label": "New Thing",
         "rdfs:comment": "",
-        "name": "eaeae",
+        "name": "New Thing",
+        "description": "",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/New_Thing",
+          "http://dbpedia.org/resource/New_Thing",
+          "http://www.wikidata.org/entity/Q16998778"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/New_Thing",
+          "http://dbpedia.org/resource/New_Thing",
+          "http://www.wikidata.org/entity/Q16998778"
+        ],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [
+          "a0825ae0-454f-4886-be47-66e9cc77d095"
+        ],
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-10-29T05:07:30.597Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "6c8352ec-785a-41ac-b12a-bf84ee2b7684": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:6c8352ec-785a-41ac-b12a-bf84ee2b7684",
+        "rdfs:label": "eeae",
+        "rdfs:comment": "",
+        "name": "eeae",
         "description": "",
         "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
@@ -385,20 +429,20 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-29T05:06:56.694Z"
+          "redstring:lastViewed": "2025-10-29T05:07:30.597Z"
         },
         "redstring:abstractionChains": {}
       },
-      "08e9f187-21d7-4a65-ac84-69a4591755d6": {
+      "1b59aedc-d583-4538-9fe8-92d132c769c4": {
         "@type": [
           "redstring:Prototype",
           "rdfs:Class",
           "schema:Thing"
         ],
-        "@id": "prototype:08e9f187-21d7-4a65-ac84-69a4591755d6",
-        "rdfs:label": "eeek",
+        "@id": "prototype:1b59aedc-d583-4538-9fe8-92d132c769c4",
+        "rdfs:label": "ee",
         "rdfs:comment": "",
-        "name": "eeek",
+        "name": "ee",
         "description": "",
         "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
@@ -422,7 +466,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-29T05:06:56.694Z"
+          "redstring:lastViewed": "2025-10-29T05:07:30.597Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -434,81 +478,99 @@
     "rdfs:label": "Redstring Spatial Graphs",
     "rdfs:comment": "Collection of positioned instances within spatial graphs",
     "graphs": {
-      "73c342cf-ba60-474a-b3ce-f5239a8ca74d": {
+      "2955ddd1-054f-453f-9f49-63248aa23616": {
         "@type": "redstring:SpatialGraph",
-        "@id": "graph:73c342cf-ba60-474a-b3ce-f5239a8ca74d",
+        "@id": "graph:2955ddd1-054f-453f-9f49-63248aa23616",
         "rdfs:label": "New Thing",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
-          "d0428db2-3893-4a47-8fd8-b563c7cbf839"
+          "fd35654a-6e62-4b9e-85b4-06e1bab2ae1e"
         ],
-        "redstring:edgeIds": [
-          "25d89efe-9193-403a-81a9-f28ca7b0c31d",
-          "3d9acc9b-c36e-48e7-b7b3-aa90cbfb2ffb",
-          "9d9debe9-09a0-4936-8177-91b3d5079069"
-        ],
+        "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -24448.19112702429,
-          "y": -25249.44749509615
+          "x": -1960.1460105246888,
+          "y": -338.99304165122646
         },
-        "redstring:zoomLevel": 0.5158447560870345,
+        "redstring:zoomLevel": 0.5417827774323168,
         "redstring:instances": {
-          "198bd4a4-7305-4196-9930-dbd9f250402b": {
+          "e7d88242-12d9-4aea-815a-de9e9d2940da": {
             "@type": "redstring:Instance",
-            "@id": "instance:198bd4a4-7305-4196-9930-dbd9f250402b",
+            "@id": "instance:e7d88242-12d9-4aea-815a-de9e9d2940da",
             "rdf:type": {
-              "@id": "prototype:2afbd120-0c1d-419e-aea2-def92c43e272"
+              "@id": "prototype:ed67c0df-94bc-433e-8aa0-ad8a24c9eec3"
             },
             "rdfs:label": null,
             "rdfs:comment": null,
             "redstring:containedIn": {
-              "@id": "graph:73c342cf-ba60-474a-b3ce-f5239a8ca74d"
+              "@id": "graph:2955ddd1-054f-453f-9f49-63248aa23616"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": -1189.1539521232407,
-              "redstring:yCoordinate": -634.5703392251671,
+              "redstring:xCoordinate": -44956.02815691837,
+              "redstring:yCoordinate": -48853.78811720259,
               "redstring:spatialScale": 1
             },
             "redstring:visualProperties": {},
-            "redstring:prototypeId": "2afbd120-0c1d-419e-aea2-def92c43e272"
+            "redstring:prototypeId": "ed67c0df-94bc-433e-8aa0-ad8a24c9eec3"
+          }
+        },
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": false
+        }
+      },
+      "a0825ae0-454f-4886-be47-66e9cc77d095": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "graph:a0825ae0-454f-4886-be47-66e9cc77d095",
+        "rdfs:label": "New Thing",
+        "rdfs:comment": "",
+        "redstring:definingNodeIds": [
+          "cd579a42-46d0-4eb6-b97c-57ea5a37d5e7"
+        ],
+        "redstring:edgeIds": [],
+        "redstring:panOffset": {
+          "x": -1025.5523083231467,
+          "y": -225.48238126944548
+        },
+        "redstring:zoomLevel": 0.7263100921697373,
+        "redstring:instances": {
+          "63c979b4-69f2-4520-a9a3-3e15d890d149": {
+            "@type": "redstring:Instance",
+            "@id": "instance:63c979b4-69f2-4520-a9a3-3e15d890d149",
+            "rdf:type": {
+              "@id": "prototype:6c8352ec-785a-41ac-b12a-bf84ee2b7684"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "graph:a0825ae0-454f-4886-be47-66e9cc77d095"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -47388.28811325999,
+              "redstring:yCoordinate": -49415.231850381475,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "6c8352ec-785a-41ac-b12a-bf84ee2b7684"
           },
-          "c3d8e1a0-3d68-4155-9228-98e830648ae0": {
+          "77a0cd5d-71e4-405b-b8f6-ff2e95fb6707": {
             "@type": "redstring:Instance",
-            "@id": "instance:c3d8e1a0-3d68-4155-9228-98e830648ae0",
+            "@id": "instance:77a0cd5d-71e4-405b-b8f6-ff2e95fb6707",
             "rdf:type": {
-              "@id": "prototype:2f322210-d133-4566-b9d9-6ab9509cb564"
+              "@id": "prototype:1b59aedc-d583-4538-9fe8-92d132c769c4"
             },
             "rdfs:label": null,
             "rdfs:comment": null,
             "redstring:containedIn": {
-              "@id": "graph:73c342cf-ba60-474a-b3ce-f5239a8ca74d"
+              "@id": "graph:a0825ae0-454f-4886-be47-66e9cc77d095"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": -330.22023522020754,
-              "redstring:yCoordinate": -429.8120720797597,
+              "redstring:xCoordinate": -47181.66803372601,
+              "redstring:yCoordinate": -49089.686227419246,
               "redstring:spatialScale": 1
             },
             "redstring:visualProperties": {},
-            "redstring:prototypeId": "2f322210-d133-4566-b9d9-6ab9509cb564"
-          },
-          "18a30e54-d56d-4bbb-992d-85a876573983": {
-            "@type": "redstring:Instance",
-            "@id": "instance:18a30e54-d56d-4bbb-992d-85a876573983",
-            "rdf:type": {
-              "@id": "prototype:08e9f187-21d7-4a65-ac84-69a4591755d6"
-            },
-            "rdfs:label": null,
-            "rdfs:comment": null,
-            "redstring:containedIn": {
-              "@id": "graph:73c342cf-ba60-474a-b3ce-f5239a8ca74d"
-            },
-            "redstring:spatialContext": {
-              "redstring:xCoordinate": -1133.9951976899465,
-              "redstring:yCoordinate": 13.978369283860957,
-              "redstring:spatialScale": 1
-            },
-            "redstring:visualProperties": {},
-            "redstring:prototypeId": "08e9f187-21d7-4a65-ac84-69a4591755d6"
+            "redstring:prototypeId": "1b59aedc-d583-4538-9fe8-92d132c769c4"
           }
         },
         "redstring:groups": {},
@@ -524,199 +586,102 @@
     "@id": "space:relationships",
     "rdfs:label": "Redstring Relationships",
     "rdfs:comment": "RDF statements representing connections between instances",
-    "edges": {
-      "25d89efe-9193-403a-81a9-f28ca7b0c31d": {
-        "id": "25d89efe-9193-403a-81a9-f28ca7b0c31d",
-        "sourceId": "198bd4a4-7305-4196-9930-dbd9f250402b",
-        "destinationId": "c3d8e1a0-3d68-4155-9228-98e830648ae0",
-        "typeNodeId": "base-connection-prototype",
-        "directionality": {
-          "arrowsToward": []
-        },
-        "rdfStatements": [
-          {
-            "@type": "Statement",
-            "subject": {
-              "@id": "node:2afbd120-0c1d-419e-aea2-def92c43e272"
-            },
-            "predicate": {
-              "@id": "node:base-connection-prototype"
-            },
-            "object": {
-              "@id": "node:2f322210-d133-4566-b9d9-6ab9509cb564"
-            }
-          },
-          {
-            "@type": "Statement",
-            "subject": {
-              "@id": "node:2f322210-d133-4566-b9d9-6ab9509cb564"
-            },
-            "predicate": {
-              "@id": "node:base-connection-prototype"
-            },
-            "object": {
-              "@id": "node:2afbd120-0c1d-419e-aea2-def92c43e272"
-            }
-          }
-        ],
-        "sourcePrototypeId": "2afbd120-0c1d-419e-aea2-def92c43e272",
-        "destinationPrototypeId": "2f322210-d133-4566-b9d9-6ab9509cb564",
-        "predicatePrototypeId": "base-connection-prototype"
-      },
-      "3d9acc9b-c36e-48e7-b7b3-aa90cbfb2ffb": {
-        "id": "3d9acc9b-c36e-48e7-b7b3-aa90cbfb2ffb",
-        "sourceId": "18a30e54-d56d-4bbb-992d-85a876573983",
-        "destinationId": "198bd4a4-7305-4196-9930-dbd9f250402b",
-        "typeNodeId": "base-connection-prototype",
-        "directionality": {
-          "arrowsToward": []
-        },
-        "rdfStatements": [
-          {
-            "@type": "Statement",
-            "subject": {
-              "@id": "node:08e9f187-21d7-4a65-ac84-69a4591755d6"
-            },
-            "predicate": {
-              "@id": "node:base-connection-prototype"
-            },
-            "object": {
-              "@id": "node:2afbd120-0c1d-419e-aea2-def92c43e272"
-            }
-          },
-          {
-            "@type": "Statement",
-            "subject": {
-              "@id": "node:2afbd120-0c1d-419e-aea2-def92c43e272"
-            },
-            "predicate": {
-              "@id": "node:base-connection-prototype"
-            },
-            "object": {
-              "@id": "node:08e9f187-21d7-4a65-ac84-69a4591755d6"
-            }
-          }
-        ],
-        "sourcePrototypeId": "08e9f187-21d7-4a65-ac84-69a4591755d6",
-        "destinationPrototypeId": "2afbd120-0c1d-419e-aea2-def92c43e272",
-        "predicatePrototypeId": "base-connection-prototype"
-      },
-      "9d9debe9-09a0-4936-8177-91b3d5079069": {
-        "id": "9d9debe9-09a0-4936-8177-91b3d5079069",
-        "sourceId": "18a30e54-d56d-4bbb-992d-85a876573983",
-        "destinationId": "c3d8e1a0-3d68-4155-9228-98e830648ae0",
-        "typeNodeId": "base-connection-prototype",
-        "directionality": {
-          "arrowsToward": []
-        },
-        "rdfStatements": [
-          {
-            "@type": "Statement",
-            "subject": {
-              "@id": "node:08e9f187-21d7-4a65-ac84-69a4591755d6"
-            },
-            "predicate": {
-              "@id": "node:base-connection-prototype"
-            },
-            "object": {
-              "@id": "node:2f322210-d133-4566-b9d9-6ab9509cb564"
-            }
-          },
-          {
-            "@type": "Statement",
-            "subject": {
-              "@id": "node:2f322210-d133-4566-b9d9-6ab9509cb564"
-            },
-            "predicate": {
-              "@id": "node:base-connection-prototype"
-            },
-            "object": {
-              "@id": "node:08e9f187-21d7-4a65-ac84-69a4591755d6"
-            }
-          }
-        ],
-        "sourcePrototypeId": "08e9f187-21d7-4a65-ac84-69a4591755d6",
-        "destinationPrototypeId": "2f322210-d133-4566-b9d9-6ab9509cb564",
-        "predicatePrototypeId": "base-connection-prototype"
-      }
-    }
+    "edges": {}
   },
   "graphs": {
-    "73c342cf-ba60-474a-b3ce-f5239a8ca74d": {
+    "2955ddd1-054f-453f-9f49-63248aa23616": {
       "@type": "redstring:SpatialGraph",
-      "@id": "graph:73c342cf-ba60-474a-b3ce-f5239a8ca74d",
+      "@id": "graph:2955ddd1-054f-453f-9f49-63248aa23616",
       "rdfs:label": "New Thing",
       "rdfs:comment": "",
       "redstring:definingNodeIds": [
-        "d0428db2-3893-4a47-8fd8-b563c7cbf839"
+        "fd35654a-6e62-4b9e-85b4-06e1bab2ae1e"
       ],
-      "redstring:edgeIds": [
-        "25d89efe-9193-403a-81a9-f28ca7b0c31d",
-        "3d9acc9b-c36e-48e7-b7b3-aa90cbfb2ffb",
-        "9d9debe9-09a0-4936-8177-91b3d5079069"
-      ],
+      "redstring:edgeIds": [],
       "redstring:panOffset": {
-        "x": -24448.19112702429,
-        "y": -25249.44749509615
+        "x": -1960.1460105246888,
+        "y": -338.99304165122646
       },
-      "redstring:zoomLevel": 0.5158447560870345,
+      "redstring:zoomLevel": 0.5417827774323168,
       "redstring:instances": {
-        "198bd4a4-7305-4196-9930-dbd9f250402b": {
+        "e7d88242-12d9-4aea-815a-de9e9d2940da": {
           "@type": "redstring:Instance",
-          "@id": "instance:198bd4a4-7305-4196-9930-dbd9f250402b",
+          "@id": "instance:e7d88242-12d9-4aea-815a-de9e9d2940da",
           "rdf:type": {
-            "@id": "prototype:2afbd120-0c1d-419e-aea2-def92c43e272"
+            "@id": "prototype:ed67c0df-94bc-433e-8aa0-ad8a24c9eec3"
           },
           "rdfs:label": null,
           "rdfs:comment": null,
           "redstring:containedIn": {
-            "@id": "graph:73c342cf-ba60-474a-b3ce-f5239a8ca74d"
+            "@id": "graph:2955ddd1-054f-453f-9f49-63248aa23616"
           },
           "redstring:spatialContext": {
-            "redstring:xCoordinate": -1189.1539521232407,
-            "redstring:yCoordinate": -634.5703392251671,
+            "redstring:xCoordinate": -44956.02815691837,
+            "redstring:yCoordinate": -48853.78811720259,
             "redstring:spatialScale": 1
           },
           "redstring:visualProperties": {},
-          "redstring:prototypeId": "2afbd120-0c1d-419e-aea2-def92c43e272"
+          "redstring:prototypeId": "ed67c0df-94bc-433e-8aa0-ad8a24c9eec3"
+        }
+      },
+      "redstring:groups": {},
+      "redstring:visualProperties": {
+        "redstring:expanded": true,
+        "redstring:activeInContext": false
+      }
+    },
+    "a0825ae0-454f-4886-be47-66e9cc77d095": {
+      "@type": "redstring:SpatialGraph",
+      "@id": "graph:a0825ae0-454f-4886-be47-66e9cc77d095",
+      "rdfs:label": "New Thing",
+      "rdfs:comment": "",
+      "redstring:definingNodeIds": [
+        "cd579a42-46d0-4eb6-b97c-57ea5a37d5e7"
+      ],
+      "redstring:edgeIds": [],
+      "redstring:panOffset": {
+        "x": -1025.5523083231467,
+        "y": -225.48238126944548
+      },
+      "redstring:zoomLevel": 0.7263100921697373,
+      "redstring:instances": {
+        "63c979b4-69f2-4520-a9a3-3e15d890d149": {
+          "@type": "redstring:Instance",
+          "@id": "instance:63c979b4-69f2-4520-a9a3-3e15d890d149",
+          "rdf:type": {
+            "@id": "prototype:6c8352ec-785a-41ac-b12a-bf84ee2b7684"
+          },
+          "rdfs:label": null,
+          "rdfs:comment": null,
+          "redstring:containedIn": {
+            "@id": "graph:a0825ae0-454f-4886-be47-66e9cc77d095"
+          },
+          "redstring:spatialContext": {
+            "redstring:xCoordinate": -47388.28811325999,
+            "redstring:yCoordinate": -49415.231850381475,
+            "redstring:spatialScale": 1
+          },
+          "redstring:visualProperties": {},
+          "redstring:prototypeId": "6c8352ec-785a-41ac-b12a-bf84ee2b7684"
         },
-        "c3d8e1a0-3d68-4155-9228-98e830648ae0": {
+        "77a0cd5d-71e4-405b-b8f6-ff2e95fb6707": {
           "@type": "redstring:Instance",
-          "@id": "instance:c3d8e1a0-3d68-4155-9228-98e830648ae0",
+          "@id": "instance:77a0cd5d-71e4-405b-b8f6-ff2e95fb6707",
           "rdf:type": {
-            "@id": "prototype:2f322210-d133-4566-b9d9-6ab9509cb564"
+            "@id": "prototype:1b59aedc-d583-4538-9fe8-92d132c769c4"
           },
           "rdfs:label": null,
           "rdfs:comment": null,
           "redstring:containedIn": {
-            "@id": "graph:73c342cf-ba60-474a-b3ce-f5239a8ca74d"
+            "@id": "graph:a0825ae0-454f-4886-be47-66e9cc77d095"
           },
           "redstring:spatialContext": {
-            "redstring:xCoordinate": -330.22023522020754,
-            "redstring:yCoordinate": -429.8120720797597,
+            "redstring:xCoordinate": -47181.66803372601,
+            "redstring:yCoordinate": -49089.686227419246,
             "redstring:spatialScale": 1
           },
           "redstring:visualProperties": {},
-          "redstring:prototypeId": "2f322210-d133-4566-b9d9-6ab9509cb564"
-        },
-        "18a30e54-d56d-4bbb-992d-85a876573983": {
-          "@type": "redstring:Instance",
-          "@id": "instance:18a30e54-d56d-4bbb-992d-85a876573983",
-          "rdf:type": {
-            "@id": "prototype:08e9f187-21d7-4a65-ac84-69a4591755d6"
-          },
-          "rdfs:label": null,
-          "rdfs:comment": null,
-          "redstring:containedIn": {
-            "@id": "graph:73c342cf-ba60-474a-b3ce-f5239a8ca74d"
-          },
-          "redstring:spatialContext": {
-            "redstring:xCoordinate": -1133.9951976899465,
-            "redstring:yCoordinate": 13.978369283860957,
-            "redstring:spatialScale": 1
-          },
-          "redstring:visualProperties": {},
-          "redstring:prototypeId": "08e9f187-21d7-4a65-ac84-69a4591755d6"
+          "redstring:prototypeId": "1b59aedc-d583-4538-9fe8-92d132c769c4"
         }
       },
       "redstring:groups": {},
@@ -757,17 +722,17 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-29T05:06:56.694Z"
+        "redstring:lastViewed": "2025-10-29T05:07:30.597Z"
       },
       "redstring:abstractionChains": {}
     },
-    "d0428db2-3893-4a47-8fd8-b563c7cbf839": {
+    "fd35654a-6e62-4b9e-85b4-06e1bab2ae1e": {
       "@type": [
         "redstring:Prototype",
         "rdfs:Class",
         "schema:Thing"
       ],
-      "@id": "prototype:d0428db2-3893-4a47-8fd8-b563c7cbf839",
+      "@id": "prototype:fd35654a-6e62-4b9e-85b4-06e1bab2ae1e",
       "rdfs:label": "New Thing",
       "rdfs:comment": "",
       "name": "New Thing",
@@ -796,25 +761,25 @@
         "redstring:cognitiveColor": "#8B0000"
       },
       "redstring:definitionGraphIds": [
-        "73c342cf-ba60-474a-b3ce-f5239a8ca74d"
+        "2955ddd1-054f-453f-9f49-63248aa23616"
       ],
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-29T05:06:56.694Z"
+        "redstring:lastViewed": "2025-10-29T05:07:30.597Z"
       },
       "redstring:abstractionChains": {}
     },
-    "2afbd120-0c1d-419e-aea2-def92c43e272": {
+    "ed67c0df-94bc-433e-8aa0-ad8a24c9eec3": {
       "@type": [
         "redstring:Prototype",
         "rdfs:Class",
         "schema:Thing"
       ],
-      "@id": "prototype:2afbd120-0c1d-419e-aea2-def92c43e272",
-      "rdfs:label": "Test",
+      "@id": "prototype:ed67c0df-94bc-433e-8aa0-ad8a24c9eec3",
+      "rdfs:label": "Ooh nah nah",
       "rdfs:comment": "",
-      "name": "Test",
+      "name": "Ooh nah nah",
       "description": "",
       "rdfs:seeAlso": [],
       "rdfs:isDefinedBy": {
@@ -838,20 +803,64 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-29T05:06:56.694Z"
+        "redstring:lastViewed": "2025-10-29T05:07:30.597Z"
       },
       "redstring:abstractionChains": {}
     },
-    "2f322210-d133-4566-b9d9-6ab9509cb564": {
+    "cd579a42-46d0-4eb6-b97c-57ea5a37d5e7": {
       "@type": [
         "redstring:Prototype",
         "rdfs:Class",
         "schema:Thing"
       ],
-      "@id": "prototype:2f322210-d133-4566-b9d9-6ab9509cb564",
-      "rdfs:label": "eaeae",
+      "@id": "prototype:cd579a42-46d0-4eb6-b97c-57ea5a37d5e7",
+      "rdfs:label": "New Thing",
       "rdfs:comment": "",
-      "name": "eaeae",
+      "name": "New Thing",
+      "description": "",
+      "rdfs:seeAlso": [
+        "https://en.wikipedia.org/wiki/New_Thing",
+        "http://dbpedia.org/resource/New_Thing",
+        "http://www.wikidata.org/entity/Q16998778"
+      ],
+      "rdfs:isDefinedBy": {
+        "@id": "https://redstring.io"
+      },
+      "rdfs:subClassOf": null,
+      "owl:sameAs": [
+        "https://en.wikipedia.org/wiki/New_Thing",
+        "http://dbpedia.org/resource/New_Thing",
+        "http://www.wikidata.org/entity/Q16998778"
+      ],
+      "owl:equivalentClass": [],
+      "redstring:spatialContext": {
+        "redstring:xCoordinate": 0,
+        "redstring:yCoordinate": 0,
+        "redstring:spatialScale": 1
+      },
+      "redstring:visualProperties": {
+        "redstring:cognitiveColor": "#8B0000"
+      },
+      "redstring:definitionGraphIds": [
+        "a0825ae0-454f-4886-be47-66e9cc77d095"
+      ],
+      "redstring:citations": [],
+      "redstring:cognitiveProperties": {
+        "redstring:bookmarked": false,
+        "redstring:lastViewed": "2025-10-29T05:07:30.597Z"
+      },
+      "redstring:abstractionChains": {}
+    },
+    "6c8352ec-785a-41ac-b12a-bf84ee2b7684": {
+      "@type": [
+        "redstring:Prototype",
+        "rdfs:Class",
+        "schema:Thing"
+      ],
+      "@id": "prototype:6c8352ec-785a-41ac-b12a-bf84ee2b7684",
+      "rdfs:label": "eeae",
+      "rdfs:comment": "",
+      "name": "eeae",
       "description": "",
       "rdfs:seeAlso": [],
       "rdfs:isDefinedBy": {
@@ -875,20 +884,20 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-29T05:06:56.694Z"
+        "redstring:lastViewed": "2025-10-29T05:07:30.597Z"
       },
       "redstring:abstractionChains": {}
     },
-    "08e9f187-21d7-4a65-ac84-69a4591755d6": {
+    "1b59aedc-d583-4538-9fe8-92d132c769c4": {
       "@type": [
         "redstring:Prototype",
         "rdfs:Class",
         "schema:Thing"
       ],
-      "@id": "prototype:08e9f187-21d7-4a65-ac84-69a4591755d6",
-      "rdfs:label": "eeek",
+      "@id": "prototype:1b59aedc-d583-4538-9fe8-92d132c769c4",
+      "rdfs:label": "ee",
       "rdfs:comment": "",
-      "name": "eeek",
+      "name": "ee",
       "description": "",
       "rdfs:seeAlso": [],
       "rdfs:isDefinedBy": {
@@ -912,127 +921,12 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-29T05:06:56.694Z"
+        "redstring:lastViewed": "2025-10-29T05:07:30.597Z"
       },
       "redstring:abstractionChains": {}
     }
   },
-  "edges": {
-    "25d89efe-9193-403a-81a9-f28ca7b0c31d": {
-      "id": "25d89efe-9193-403a-81a9-f28ca7b0c31d",
-      "sourceId": "198bd4a4-7305-4196-9930-dbd9f250402b",
-      "destinationId": "c3d8e1a0-3d68-4155-9228-98e830648ae0",
-      "typeNodeId": "base-connection-prototype",
-      "directionality": {
-        "arrowsToward": []
-      },
-      "rdfStatements": [
-        {
-          "@type": "Statement",
-          "subject": {
-            "@id": "node:2afbd120-0c1d-419e-aea2-def92c43e272"
-          },
-          "predicate": {
-            "@id": "node:base-connection-prototype"
-          },
-          "object": {
-            "@id": "node:2f322210-d133-4566-b9d9-6ab9509cb564"
-          }
-        },
-        {
-          "@type": "Statement",
-          "subject": {
-            "@id": "node:2f322210-d133-4566-b9d9-6ab9509cb564"
-          },
-          "predicate": {
-            "@id": "node:base-connection-prototype"
-          },
-          "object": {
-            "@id": "node:2afbd120-0c1d-419e-aea2-def92c43e272"
-          }
-        }
-      ],
-      "sourcePrototypeId": "2afbd120-0c1d-419e-aea2-def92c43e272",
-      "destinationPrototypeId": "2f322210-d133-4566-b9d9-6ab9509cb564",
-      "predicatePrototypeId": "base-connection-prototype"
-    },
-    "3d9acc9b-c36e-48e7-b7b3-aa90cbfb2ffb": {
-      "id": "3d9acc9b-c36e-48e7-b7b3-aa90cbfb2ffb",
-      "sourceId": "18a30e54-d56d-4bbb-992d-85a876573983",
-      "destinationId": "198bd4a4-7305-4196-9930-dbd9f250402b",
-      "typeNodeId": "base-connection-prototype",
-      "directionality": {
-        "arrowsToward": []
-      },
-      "rdfStatements": [
-        {
-          "@type": "Statement",
-          "subject": {
-            "@id": "node:08e9f187-21d7-4a65-ac84-69a4591755d6"
-          },
-          "predicate": {
-            "@id": "node:base-connection-prototype"
-          },
-          "object": {
-            "@id": "node:2afbd120-0c1d-419e-aea2-def92c43e272"
-          }
-        },
-        {
-          "@type": "Statement",
-          "subject": {
-            "@id": "node:2afbd120-0c1d-419e-aea2-def92c43e272"
-          },
-          "predicate": {
-            "@id": "node:base-connection-prototype"
-          },
-          "object": {
-            "@id": "node:08e9f187-21d7-4a65-ac84-69a4591755d6"
-          }
-        }
-      ],
-      "sourcePrototypeId": "08e9f187-21d7-4a65-ac84-69a4591755d6",
-      "destinationPrototypeId": "2afbd120-0c1d-419e-aea2-def92c43e272",
-      "predicatePrototypeId": "base-connection-prototype"
-    },
-    "9d9debe9-09a0-4936-8177-91b3d5079069": {
-      "id": "9d9debe9-09a0-4936-8177-91b3d5079069",
-      "sourceId": "18a30e54-d56d-4bbb-992d-85a876573983",
-      "destinationId": "c3d8e1a0-3d68-4155-9228-98e830648ae0",
-      "typeNodeId": "base-connection-prototype",
-      "directionality": {
-        "arrowsToward": []
-      },
-      "rdfStatements": [
-        {
-          "@type": "Statement",
-          "subject": {
-            "@id": "node:08e9f187-21d7-4a65-ac84-69a4591755d6"
-          },
-          "predicate": {
-            "@id": "node:base-connection-prototype"
-          },
-          "object": {
-            "@id": "node:2f322210-d133-4566-b9d9-6ab9509cb564"
-          }
-        },
-        {
-          "@type": "Statement",
-          "subject": {
-            "@id": "node:2f322210-d133-4566-b9d9-6ab9509cb564"
-          },
-          "predicate": {
-            "@id": "node:base-connection-prototype"
-          },
-          "object": {
-            "@id": "node:08e9f187-21d7-4a65-ac84-69a4591755d6"
-          }
-        }
-      ],
-      "sourcePrototypeId": "08e9f187-21d7-4a65-ac84-69a4591755d6",
-      "destinationPrototypeId": "2f322210-d133-4566-b9d9-6ab9509cb564",
-      "predicatePrototypeId": "base-connection-prototype"
-    }
-  },
+  "edges": {},
   "globalSpatialContext": {
     "@type": "redstring:SpatialContext",
     "redstring:viewport": {
@@ -1048,12 +942,14 @@
   "userInterface": {
     "@type": "redstring:UserInterfaceState",
     "redstring:openGraphIds": [
-      "73c342cf-ba60-474a-b3ce-f5239a8ca74d"
+      "a0825ae0-454f-4886-be47-66e9cc77d095",
+      "2955ddd1-054f-453f-9f49-63248aa23616"
     ],
-    "redstring:activeGraphId": "73c342cf-ba60-474a-b3ce-f5239a8ca74d",
-    "redstring:activeDefinitionNodeId": "d0428db2-3893-4a47-8fd8-b563c7cbf839",
+    "redstring:activeGraphId": "a0825ae0-454f-4886-be47-66e9cc77d095",
+    "redstring:activeDefinitionNodeId": "cd579a42-46d0-4eb6-b97c-57ea5a37d5e7",
     "redstring:expandedGraphIds": [
-      "73c342cf-ba60-474a-b3ce-f5239a8ca74d"
+      "2955ddd1-054f-453f-9f49-63248aa23616",
+      "a0825ae0-454f-4886-be47-66e9cc77d095"
     ],
     "redstring:rightPanelTabs": [
       {
@@ -1067,81 +963,99 @@
   },
   "legacy": {
     "graphs": {
-      "73c342cf-ba60-474a-b3ce-f5239a8ca74d": {
+      "2955ddd1-054f-453f-9f49-63248aa23616": {
         "@type": "redstring:SpatialGraph",
-        "@id": "graph:73c342cf-ba60-474a-b3ce-f5239a8ca74d",
+        "@id": "graph:2955ddd1-054f-453f-9f49-63248aa23616",
         "rdfs:label": "New Thing",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
-          "d0428db2-3893-4a47-8fd8-b563c7cbf839"
+          "fd35654a-6e62-4b9e-85b4-06e1bab2ae1e"
         ],
-        "redstring:edgeIds": [
-          "25d89efe-9193-403a-81a9-f28ca7b0c31d",
-          "3d9acc9b-c36e-48e7-b7b3-aa90cbfb2ffb",
-          "9d9debe9-09a0-4936-8177-91b3d5079069"
-        ],
+        "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -24448.19112702429,
-          "y": -25249.44749509615
+          "x": -1960.1460105246888,
+          "y": -338.99304165122646
         },
-        "redstring:zoomLevel": 0.5158447560870345,
+        "redstring:zoomLevel": 0.5417827774323168,
         "redstring:instances": {
-          "198bd4a4-7305-4196-9930-dbd9f250402b": {
+          "e7d88242-12d9-4aea-815a-de9e9d2940da": {
             "@type": "redstring:Instance",
-            "@id": "instance:198bd4a4-7305-4196-9930-dbd9f250402b",
+            "@id": "instance:e7d88242-12d9-4aea-815a-de9e9d2940da",
             "rdf:type": {
-              "@id": "prototype:2afbd120-0c1d-419e-aea2-def92c43e272"
+              "@id": "prototype:ed67c0df-94bc-433e-8aa0-ad8a24c9eec3"
             },
             "rdfs:label": null,
             "rdfs:comment": null,
             "redstring:containedIn": {
-              "@id": "graph:73c342cf-ba60-474a-b3ce-f5239a8ca74d"
+              "@id": "graph:2955ddd1-054f-453f-9f49-63248aa23616"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": -1189.1539521232407,
-              "redstring:yCoordinate": -634.5703392251671,
+              "redstring:xCoordinate": -44956.02815691837,
+              "redstring:yCoordinate": -48853.78811720259,
               "redstring:spatialScale": 1
             },
             "redstring:visualProperties": {},
-            "redstring:prototypeId": "2afbd120-0c1d-419e-aea2-def92c43e272"
+            "redstring:prototypeId": "ed67c0df-94bc-433e-8aa0-ad8a24c9eec3"
+          }
+        },
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": false
+        }
+      },
+      "a0825ae0-454f-4886-be47-66e9cc77d095": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "graph:a0825ae0-454f-4886-be47-66e9cc77d095",
+        "rdfs:label": "New Thing",
+        "rdfs:comment": "",
+        "redstring:definingNodeIds": [
+          "cd579a42-46d0-4eb6-b97c-57ea5a37d5e7"
+        ],
+        "redstring:edgeIds": [],
+        "redstring:panOffset": {
+          "x": -1025.5523083231467,
+          "y": -225.48238126944548
+        },
+        "redstring:zoomLevel": 0.7263100921697373,
+        "redstring:instances": {
+          "63c979b4-69f2-4520-a9a3-3e15d890d149": {
+            "@type": "redstring:Instance",
+            "@id": "instance:63c979b4-69f2-4520-a9a3-3e15d890d149",
+            "rdf:type": {
+              "@id": "prototype:6c8352ec-785a-41ac-b12a-bf84ee2b7684"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "graph:a0825ae0-454f-4886-be47-66e9cc77d095"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -47388.28811325999,
+              "redstring:yCoordinate": -49415.231850381475,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "6c8352ec-785a-41ac-b12a-bf84ee2b7684"
           },
-          "c3d8e1a0-3d68-4155-9228-98e830648ae0": {
+          "77a0cd5d-71e4-405b-b8f6-ff2e95fb6707": {
             "@type": "redstring:Instance",
-            "@id": "instance:c3d8e1a0-3d68-4155-9228-98e830648ae0",
+            "@id": "instance:77a0cd5d-71e4-405b-b8f6-ff2e95fb6707",
             "rdf:type": {
-              "@id": "prototype:2f322210-d133-4566-b9d9-6ab9509cb564"
+              "@id": "prototype:1b59aedc-d583-4538-9fe8-92d132c769c4"
             },
             "rdfs:label": null,
             "rdfs:comment": null,
             "redstring:containedIn": {
-              "@id": "graph:73c342cf-ba60-474a-b3ce-f5239a8ca74d"
+              "@id": "graph:a0825ae0-454f-4886-be47-66e9cc77d095"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": -330.22023522020754,
-              "redstring:yCoordinate": -429.8120720797597,
+              "redstring:xCoordinate": -47181.66803372601,
+              "redstring:yCoordinate": -49089.686227419246,
               "redstring:spatialScale": 1
             },
             "redstring:visualProperties": {},
-            "redstring:prototypeId": "2f322210-d133-4566-b9d9-6ab9509cb564"
-          },
-          "18a30e54-d56d-4bbb-992d-85a876573983": {
-            "@type": "redstring:Instance",
-            "@id": "instance:18a30e54-d56d-4bbb-992d-85a876573983",
-            "rdf:type": {
-              "@id": "prototype:08e9f187-21d7-4a65-ac84-69a4591755d6"
-            },
-            "rdfs:label": null,
-            "rdfs:comment": null,
-            "redstring:containedIn": {
-              "@id": "graph:73c342cf-ba60-474a-b3ce-f5239a8ca74d"
-            },
-            "redstring:spatialContext": {
-              "redstring:xCoordinate": -1133.9951976899465,
-              "redstring:yCoordinate": 13.978369283860957,
-              "redstring:spatialScale": 1
-            },
-            "redstring:visualProperties": {},
-            "redstring:prototypeId": "08e9f187-21d7-4a65-ac84-69a4591755d6"
+            "redstring:prototypeId": "1b59aedc-d583-4538-9fe8-92d132c769c4"
           }
         },
         "redstring:groups": {},
@@ -1182,17 +1096,17 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-29T05:06:56.694Z"
+          "redstring:lastViewed": "2025-10-29T05:07:30.597Z"
         },
         "redstring:abstractionChains": {}
       },
-      "d0428db2-3893-4a47-8fd8-b563c7cbf839": {
+      "fd35654a-6e62-4b9e-85b4-06e1bab2ae1e": {
         "@type": [
           "redstring:Prototype",
           "rdfs:Class",
           "schema:Thing"
         ],
-        "@id": "prototype:d0428db2-3893-4a47-8fd8-b563c7cbf839",
+        "@id": "prototype:fd35654a-6e62-4b9e-85b4-06e1bab2ae1e",
         "rdfs:label": "New Thing",
         "rdfs:comment": "",
         "name": "New Thing",
@@ -1221,25 +1135,25 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [
-          "73c342cf-ba60-474a-b3ce-f5239a8ca74d"
+          "2955ddd1-054f-453f-9f49-63248aa23616"
         ],
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-29T05:06:56.694Z"
+          "redstring:lastViewed": "2025-10-29T05:07:30.597Z"
         },
         "redstring:abstractionChains": {}
       },
-      "2afbd120-0c1d-419e-aea2-def92c43e272": {
+      "ed67c0df-94bc-433e-8aa0-ad8a24c9eec3": {
         "@type": [
           "redstring:Prototype",
           "rdfs:Class",
           "schema:Thing"
         ],
-        "@id": "prototype:2afbd120-0c1d-419e-aea2-def92c43e272",
-        "rdfs:label": "Test",
+        "@id": "prototype:ed67c0df-94bc-433e-8aa0-ad8a24c9eec3",
+        "rdfs:label": "Ooh nah nah",
         "rdfs:comment": "",
-        "name": "Test",
+        "name": "Ooh nah nah",
         "description": "",
         "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
@@ -1263,20 +1177,64 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-29T05:06:56.694Z"
+          "redstring:lastViewed": "2025-10-29T05:07:30.597Z"
         },
         "redstring:abstractionChains": {}
       },
-      "2f322210-d133-4566-b9d9-6ab9509cb564": {
+      "cd579a42-46d0-4eb6-b97c-57ea5a37d5e7": {
         "@type": [
           "redstring:Prototype",
           "rdfs:Class",
           "schema:Thing"
         ],
-        "@id": "prototype:2f322210-d133-4566-b9d9-6ab9509cb564",
-        "rdfs:label": "eaeae",
+        "@id": "prototype:cd579a42-46d0-4eb6-b97c-57ea5a37d5e7",
+        "rdfs:label": "New Thing",
         "rdfs:comment": "",
-        "name": "eaeae",
+        "name": "New Thing",
+        "description": "",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/New_Thing",
+          "http://dbpedia.org/resource/New_Thing",
+          "http://www.wikidata.org/entity/Q16998778"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/New_Thing",
+          "http://dbpedia.org/resource/New_Thing",
+          "http://www.wikidata.org/entity/Q16998778"
+        ],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [
+          "a0825ae0-454f-4886-be47-66e9cc77d095"
+        ],
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-10-29T05:07:30.597Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "6c8352ec-785a-41ac-b12a-bf84ee2b7684": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:6c8352ec-785a-41ac-b12a-bf84ee2b7684",
+        "rdfs:label": "eeae",
+        "rdfs:comment": "",
+        "name": "eeae",
         "description": "",
         "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
@@ -1300,20 +1258,20 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-29T05:06:56.694Z"
+          "redstring:lastViewed": "2025-10-29T05:07:30.597Z"
         },
         "redstring:abstractionChains": {}
       },
-      "08e9f187-21d7-4a65-ac84-69a4591755d6": {
+      "1b59aedc-d583-4538-9fe8-92d132c769c4": {
         "@type": [
           "redstring:Prototype",
           "rdfs:Class",
           "schema:Thing"
         ],
-        "@id": "prototype:08e9f187-21d7-4a65-ac84-69a4591755d6",
-        "rdfs:label": "eeek",
+        "@id": "prototype:1b59aedc-d583-4538-9fe8-92d132c769c4",
+        "rdfs:label": "ee",
         "rdfs:comment": "",
-        "name": "eeek",
+        "name": "ee",
         "description": "",
         "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
@@ -1337,223 +1295,118 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-29T05:06:56.694Z"
+          "redstring:lastViewed": "2025-10-29T05:07:30.597Z"
         },
         "redstring:abstractionChains": {}
       }
     },
-    "edges": {
-      "25d89efe-9193-403a-81a9-f28ca7b0c31d": {
-        "id": "25d89efe-9193-403a-81a9-f28ca7b0c31d",
-        "sourceId": "198bd4a4-7305-4196-9930-dbd9f250402b",
-        "destinationId": "c3d8e1a0-3d68-4155-9228-98e830648ae0",
-        "typeNodeId": "base-connection-prototype",
-        "directionality": {
-          "arrowsToward": []
-        },
-        "rdfStatements": [
-          {
-            "@type": "Statement",
-            "subject": {
-              "@id": "node:2afbd120-0c1d-419e-aea2-def92c43e272"
-            },
-            "predicate": {
-              "@id": "node:base-connection-prototype"
-            },
-            "object": {
-              "@id": "node:2f322210-d133-4566-b9d9-6ab9509cb564"
-            }
-          },
-          {
-            "@type": "Statement",
-            "subject": {
-              "@id": "node:2f322210-d133-4566-b9d9-6ab9509cb564"
-            },
-            "predicate": {
-              "@id": "node:base-connection-prototype"
-            },
-            "object": {
-              "@id": "node:2afbd120-0c1d-419e-aea2-def92c43e272"
-            }
-          }
-        ],
-        "sourcePrototypeId": "2afbd120-0c1d-419e-aea2-def92c43e272",
-        "destinationPrototypeId": "2f322210-d133-4566-b9d9-6ab9509cb564",
-        "predicatePrototypeId": "base-connection-prototype"
-      },
-      "3d9acc9b-c36e-48e7-b7b3-aa90cbfb2ffb": {
-        "id": "3d9acc9b-c36e-48e7-b7b3-aa90cbfb2ffb",
-        "sourceId": "18a30e54-d56d-4bbb-992d-85a876573983",
-        "destinationId": "198bd4a4-7305-4196-9930-dbd9f250402b",
-        "typeNodeId": "base-connection-prototype",
-        "directionality": {
-          "arrowsToward": []
-        },
-        "rdfStatements": [
-          {
-            "@type": "Statement",
-            "subject": {
-              "@id": "node:08e9f187-21d7-4a65-ac84-69a4591755d6"
-            },
-            "predicate": {
-              "@id": "node:base-connection-prototype"
-            },
-            "object": {
-              "@id": "node:2afbd120-0c1d-419e-aea2-def92c43e272"
-            }
-          },
-          {
-            "@type": "Statement",
-            "subject": {
-              "@id": "node:2afbd120-0c1d-419e-aea2-def92c43e272"
-            },
-            "predicate": {
-              "@id": "node:base-connection-prototype"
-            },
-            "object": {
-              "@id": "node:08e9f187-21d7-4a65-ac84-69a4591755d6"
-            }
-          }
-        ],
-        "sourcePrototypeId": "08e9f187-21d7-4a65-ac84-69a4591755d6",
-        "destinationPrototypeId": "2afbd120-0c1d-419e-aea2-def92c43e272",
-        "predicatePrototypeId": "base-connection-prototype"
-      },
-      "9d9debe9-09a0-4936-8177-91b3d5079069": {
-        "id": "9d9debe9-09a0-4936-8177-91b3d5079069",
-        "sourceId": "18a30e54-d56d-4bbb-992d-85a876573983",
-        "destinationId": "c3d8e1a0-3d68-4155-9228-98e830648ae0",
-        "typeNodeId": "base-connection-prototype",
-        "directionality": {
-          "arrowsToward": []
-        },
-        "rdfStatements": [
-          {
-            "@type": "Statement",
-            "subject": {
-              "@id": "node:08e9f187-21d7-4a65-ac84-69a4591755d6"
-            },
-            "predicate": {
-              "@id": "node:base-connection-prototype"
-            },
-            "object": {
-              "@id": "node:2f322210-d133-4566-b9d9-6ab9509cb564"
-            }
-          },
-          {
-            "@type": "Statement",
-            "subject": {
-              "@id": "node:2f322210-d133-4566-b9d9-6ab9509cb564"
-            },
-            "predicate": {
-              "@id": "node:base-connection-prototype"
-            },
-            "object": {
-              "@id": "node:08e9f187-21d7-4a65-ac84-69a4591755d6"
-            }
-          }
-        ],
-        "sourcePrototypeId": "08e9f187-21d7-4a65-ac84-69a4591755d6",
-        "destinationPrototypeId": "2f322210-d133-4566-b9d9-6ab9509cb564",
-        "predicatePrototypeId": "base-connection-prototype"
-      }
-    }
+    "edges": {}
   },
   "graphLayouts": {
-    "73c342cf-ba60-474a-b3ce-f5239a8ca74d": {
+    "2955ddd1-054f-453f-9f49-63248aa23616": {
       "nodes": {
-        "198bd4a4-7305-4196-9930-dbd9f250402b": {
-          "x": -1189.1539521232407,
-          "y": -634.5703392251671,
+        "e7d88242-12d9-4aea-815a-de9e9d2940da": {
+          "x": -44956.02815691837,
+          "y": -48853.78811720259,
           "scale": 1,
-          "prototypeId": "2afbd120-0c1d-419e-aea2-def92c43e272"
-        },
-        "c3d8e1a0-3d68-4155-9228-98e830648ae0": {
-          "x": -330.22023522020754,
-          "y": -429.8120720797597,
-          "scale": 1,
-          "prototypeId": "2f322210-d133-4566-b9d9-6ab9509cb564"
-        },
-        "18a30e54-d56d-4bbb-992d-85a876573983": {
-          "x": -1133.9951976899465,
-          "y": 13.978369283860957,
-          "scale": 1,
-          "prototypeId": "08e9f187-21d7-4a65-ac84-69a4591755d6"
+          "prototypeId": "ed67c0df-94bc-433e-8aa0-ad8a24c9eec3"
         }
       },
       "metadata": {
-        "nodeCount": 3,
-        "edgeCount": 3,
+        "nodeCount": 1,
+        "edgeCount": 0,
         "boundingBox": {
-          "minX": -1189.1539521232407,
-          "minY": -634.5703392251671,
-          "maxX": -330.22023522020754,
-          "maxY": 13.978369283860957
+          "minX": -44956.02815691837,
+          "minY": -48853.78811720259,
+          "maxX": -44956.02815691837,
+          "maxY": -48853.78811720259
         },
         "centroid": {
-          "x": -884.4564616777983,
-          "y": -350.1346806736886
+          "x": -44956.02815691837,
+          "y": -48853.78811720259
         },
-        "computedAt": 1761714416694,
+        "computedAt": 1761714450597,
+        "truncated": false
+      }
+    },
+    "a0825ae0-454f-4886-be47-66e9cc77d095": {
+      "nodes": {
+        "63c979b4-69f2-4520-a9a3-3e15d890d149": {
+          "x": -47388.28811325999,
+          "y": -49415.231850381475,
+          "scale": 1,
+          "prototypeId": "6c8352ec-785a-41ac-b12a-bf84ee2b7684"
+        },
+        "77a0cd5d-71e4-405b-b8f6-ff2e95fb6707": {
+          "x": -47181.66803372601,
+          "y": -49089.686227419246,
+          "scale": 1,
+          "prototypeId": "1b59aedc-d583-4538-9fe8-92d132c769c4"
+        }
+      },
+      "metadata": {
+        "nodeCount": 2,
+        "edgeCount": 0,
+        "boundingBox": {
+          "minX": -47388.28811325999,
+          "minY": -49415.231850381475,
+          "maxX": -47181.66803372601,
+          "maxY": -49089.686227419246
+        },
+        "centroid": {
+          "x": -47284.978073492995,
+          "y": -49252.45903890036
+        },
+        "computedAt": 1761714450597,
         "truncated": false
       }
     }
   },
   "graphSummaries": {
-    "73c342cf-ba60-474a-b3ce-f5239a8ca74d": {
-      "id": "73c342cf-ba60-474a-b3ce-f5239a8ca74d",
+    "2955ddd1-054f-453f-9f49-63248aa23616": {
+      "id": "2955ddd1-054f-453f-9f49-63248aa23616",
       "name": "New Thing",
       "description": "",
-      "nodeCount": 3,
-      "edgeCount": 3,
-      "density": 0.5,
-      "quality": "dense",
-      "score": 46,
+      "nodeCount": 1,
+      "edgeCount": 0,
+      "density": 0,
+      "quality": "single",
+      "score": 10,
       "nodes": [
         {
-          "id": "198bd4a4-7305-4196-9930-dbd9f250402b",
-          "prototypeId": "2afbd120-0c1d-419e-aea2-def92c43e272",
-          "name": "Test"
-        },
-        {
-          "id": "c3d8e1a0-3d68-4155-9228-98e830648ae0",
-          "prototypeId": "2f322210-d133-4566-b9d9-6ab9509cb564",
-          "name": "eaeae"
-        },
-        {
-          "id": "18a30e54-d56d-4bbb-992d-85a876573983",
-          "prototypeId": "08e9f187-21d7-4a65-ac84-69a4591755d6",
-          "name": "eeek"
+          "id": "e7d88242-12d9-4aea-815a-de9e9d2940da",
+          "prototypeId": "ed67c0df-94bc-433e-8aa0-ad8a24c9eec3",
+          "name": "Ooh nah nah"
         }
       ],
-      "edges": [
+      "edges": [],
+      "text": "Graph: New Thing (2955ddd1-054f-453f-9f49-63248aa23616)\nNodes (1 total):\n- Ooh nah nah [e7d88242-12d9-4aea-815a-de9e9d2940da]\n\nEdges (0 total):",
+      "computedAt": 1761714450597
+    },
+    "a0825ae0-454f-4886-be47-66e9cc77d095": {
+      "id": "a0825ae0-454f-4886-be47-66e9cc77d095",
+      "name": "New Thing",
+      "description": "",
+      "nodeCount": 2,
+      "edgeCount": 0,
+      "density": 0,
+      "quality": "disconnected",
+      "score": 5,
+      "nodes": [
         {
-          "id": "25d89efe-9193-403a-81a9-f28ca7b0c31d",
-          "from": "198bd4a4-7305-4196-9930-dbd9f250402b",
-          "to": "c3d8e1a0-3d68-4155-9228-98e830648ae0",
-          "type": "base-connection-prototype",
-          "sourceLabel": "Test",
-          "targetLabel": "eaeae"
+          "id": "63c979b4-69f2-4520-a9a3-3e15d890d149",
+          "prototypeId": "6c8352ec-785a-41ac-b12a-bf84ee2b7684",
+          "name": "eeae"
         },
         {
-          "id": "3d9acc9b-c36e-48e7-b7b3-aa90cbfb2ffb",
-          "from": "18a30e54-d56d-4bbb-992d-85a876573983",
-          "to": "198bd4a4-7305-4196-9930-dbd9f250402b",
-          "type": "base-connection-prototype",
-          "sourceLabel": "eeek",
-          "targetLabel": "Test"
-        },
-        {
-          "id": "9d9debe9-09a0-4936-8177-91b3d5079069",
-          "from": "18a30e54-d56d-4bbb-992d-85a876573983",
-          "to": "c3d8e1a0-3d68-4155-9228-98e830648ae0",
-          "type": "base-connection-prototype",
-          "sourceLabel": "eeek",
-          "targetLabel": "eaeae"
+          "id": "77a0cd5d-71e4-405b-b8f6-ff2e95fb6707",
+          "prototypeId": "1b59aedc-d583-4538-9fe8-92d132c769c4",
+          "name": "ee"
         }
       ],
-      "text": "Graph: New Thing (73c342cf-ba60-474a-b3ce-f5239a8ca74d)\nNodes (3 total):\n- Test [198bd4a4-7305-4196-9930-dbd9f250402b]\n- eaeae [c3d8e1a0-3d68-4155-9228-98e830648ae0]\n- eeek [18a30e54-d56d-4bbb-992d-85a876573983]\n\nEdges (3 total):\n- Test → eaeae (base-connection-prototype)\n- eeek → Test (base-connection-prototype)\n- eeek → eaeae (base-connection-prototype)",
-      "computedAt": 1761714416694
+      "edges": [],
+      "text": "Graph: New Thing (a0825ae0-454f-4886-be47-66e9cc77d095)\nNodes (2 total):\n- eeae [63c979b4-69f2-4520-a9a3-3e15d890d149]\n- ee [77a0cd5d-71e4-405b-b8f6-ff2e95fb6707]\n\nEdges (0 total):",
+      "computedAt": 1761714450597
     }
   }
 }
