@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-12-01T19:16:46.368Z",
-    "modified": "2025-12-01T19:16:46.368Z",
+    "created": "2025-12-01T19:17:01.367Z",
+    "modified": "2025-12-01T19:17:01.367Z",
     "title": "Retail Manager Portal",
     "description": "",
     "domain": null,
@@ -267,7 +267,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:46.368Z"
+          "redstring:lastViewed": "2025-12-01T19:17:01.367Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -312,7 +312,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:46.368Z"
+          "redstring:lastViewed": "2025-12-01T19:17:01.367Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -351,7 +351,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:46.368Z"
+          "redstring:lastViewed": "2025-12-01T19:17:01.367Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -362,9 +362,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:5d922069-80db-4d70-a9a6-6fce981d5b07",
-        "rdfs:label": "KPI Connections",
+        "rdfs:label": "KPI Dashboard",
         "rdfs:comment": "",
-        "name": "KPI Connections",
+        "name": "KPI Dashboard",
         "description": "",
         "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
@@ -388,7 +388,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:46.368Z"
+          "redstring:lastViewed": "2025-12-01T19:17:01.367Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -425,7 +425,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:46.368Z"
+          "redstring:lastViewed": "2025-12-01T19:17:01.367Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -490,10 +490,10 @@
           "136d02ab-ccc8-4e94-b682-174d39fdb1eb"
         ],
         "redstring:panOffset": {
-          "x": -27368.909336273555,
-          "y": -28162.902937263047
+          "x": -23769.921290643324,
+          "y": -24419.941435841316
         },
-        "redstring:zoomLevel": 0.5709594789450293,
+        "redstring:zoomLevel": 0.4960106467509039,
         "redstring:instances": {
           "2113f172-a5ca-48cf-9847-c953655afb46": {
             "@type": "redstring:Instance",
@@ -526,8 +526,8 @@
               "@id": "graph:b67c659c-85a4-482a-a2f3-79b981a1aa4e"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": -983.6731400549397,
-              "redstring:yCoordinate": -234.45666400631308,
+              "redstring:xCoordinate": -1008.193268919189,
+              "redstring:yCoordinate": -206.43365959001676,
               "redstring:spatialScale": 1
             },
             "redstring:visualProperties": {},
@@ -642,10 +642,10 @@
         "136d02ab-ccc8-4e94-b682-174d39fdb1eb"
       ],
       "redstring:panOffset": {
-        "x": -27368.909336273555,
-        "y": -28162.902937263047
+        "x": -23769.921290643324,
+        "y": -24419.941435841316
       },
-      "redstring:zoomLevel": 0.5709594789450293,
+      "redstring:zoomLevel": 0.4960106467509039,
       "redstring:instances": {
         "2113f172-a5ca-48cf-9847-c953655afb46": {
           "@type": "redstring:Instance",
@@ -678,8 +678,8 @@
             "@id": "graph:b67c659c-85a4-482a-a2f3-79b981a1aa4e"
           },
           "redstring:spatialContext": {
-            "redstring:xCoordinate": -983.6731400549397,
-            "redstring:yCoordinate": -234.45666400631308,
+            "redstring:xCoordinate": -1008.193268919189,
+            "redstring:yCoordinate": -206.43365959001676,
             "redstring:spatialScale": 1
           },
           "redstring:visualProperties": {},
@@ -724,7 +724,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:16:46.368Z"
+        "redstring:lastViewed": "2025-12-01T19:17:01.367Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -769,7 +769,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:16:46.368Z"
+        "redstring:lastViewed": "2025-12-01T19:17:01.367Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -808,7 +808,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:16:46.368Z"
+        "redstring:lastViewed": "2025-12-01T19:17:01.367Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -819,9 +819,9 @@
         "schema:Thing"
       ],
       "@id": "prototype:5d922069-80db-4d70-a9a6-6fce981d5b07",
-      "rdfs:label": "KPI Connections",
+      "rdfs:label": "KPI Dashboard",
       "rdfs:comment": "",
-      "name": "KPI Connections",
+      "name": "KPI Dashboard",
       "description": "",
       "rdfs:seeAlso": [],
       "rdfs:isDefinedBy": {
@@ -845,7 +845,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:16:46.368Z"
+        "redstring:lastViewed": "2025-12-01T19:17:01.367Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -882,7 +882,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:16:46.368Z"
+        "redstring:lastViewed": "2025-12-01T19:17:01.367Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -954,6 +954,12 @@
     "redstring:rightPanelTabs": [
       {
         "type": "home",
+        "isActive": false
+      },
+      {
+        "type": "node",
+        "nodeId": "5d922069-80db-4d70-a9a6-6fce981d5b07",
+        "title": "KPI Dashboard",
         "isActive": true
       }
     ],
@@ -1016,10 +1022,10 @@
           "136d02ab-ccc8-4e94-b682-174d39fdb1eb"
         ],
         "redstring:panOffset": {
-          "x": -27368.909336273555,
-          "y": -28162.902937263047
+          "x": -23769.921290643324,
+          "y": -24419.941435841316
         },
-        "redstring:zoomLevel": 0.5709594789450293,
+        "redstring:zoomLevel": 0.4960106467509039,
         "redstring:instances": {
           "2113f172-a5ca-48cf-9847-c953655afb46": {
             "@type": "redstring:Instance",
@@ -1052,8 +1058,8 @@
               "@id": "graph:b67c659c-85a4-482a-a2f3-79b981a1aa4e"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": -983.6731400549397,
-              "redstring:yCoordinate": -234.45666400631308,
+              "redstring:xCoordinate": -1008.193268919189,
+              "redstring:yCoordinate": -206.43365959001676,
               "redstring:spatialScale": 1
             },
             "redstring:visualProperties": {},
@@ -1098,7 +1104,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:46.368Z"
+          "redstring:lastViewed": "2025-12-01T19:17:01.367Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1143,7 +1149,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:46.368Z"
+          "redstring:lastViewed": "2025-12-01T19:17:01.367Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1182,7 +1188,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:46.368Z"
+          "redstring:lastViewed": "2025-12-01T19:17:01.367Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1193,9 +1199,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:5d922069-80db-4d70-a9a6-6fce981d5b07",
-        "rdfs:label": "KPI Connections",
+        "rdfs:label": "KPI Dashboard",
         "rdfs:comment": "",
-        "name": "KPI Connections",
+        "name": "KPI Dashboard",
         "description": "",
         "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
@@ -1219,7 +1225,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:46.368Z"
+          "redstring:lastViewed": "2025-12-01T19:17:01.367Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1256,7 +1262,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:46.368Z"
+          "redstring:lastViewed": "2025-12-01T19:17:01.367Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1325,7 +1331,7 @@
           "x": -311.0387284196113,
           "y": -246.299562030159
         },
-        "computedAt": 1764616606368,
+        "computedAt": 1764616621367,
         "truncated": false
       }
     },
@@ -1338,8 +1344,8 @@
           "prototypeId": "5d922069-80db-4d70-a9a6-6fce981d5b07"
         },
         "c679b288-7281-4603-a1bb-8c28d929be71": {
-          "x": -983.6731400549397,
-          "y": -234.45666400631308,
+          "x": -1008.193268919189,
+          "y": -206.43365959001676,
           "scale": 1,
           "prototypeId": "075c54f4-8131-431c-9c13-644f03f0a1d5"
         }
@@ -1348,16 +1354,16 @@
         "nodeCount": 2,
         "edgeCount": 1,
         "boundingBox": {
-          "minX": -983.6731400549397,
-          "minY": -234.45666400631308,
+          "minX": -1008.193268919189,
+          "minY": -206.5,
           "maxX": -122.5,
-          "maxY": -206.5
+          "maxY": -206.43365959001676
         },
         "centroid": {
-          "x": -553.0865700274699,
-          "y": -220.47833200315654
+          "x": -565.3466344595945,
+          "y": -206.46682979500838
         },
-        "computedAt": 1764616606368,
+        "computedAt": 1764616621367,
         "truncated": false
       }
     }
@@ -1381,7 +1387,7 @@
       ],
       "edges": [],
       "text": "Graph: New Thing (2d9e3ab0-4aef-40ba-8904-e43ace25e0fd)\nNodes (1 total):\n- Retail Manager Portal [c8dbc7f0-2cd0-4247-bf52-f581e759def3]\n\nEdges (0 total):",
-      "computedAt": 1764616606368
+      "computedAt": 1764616621367
     },
     "b67c659c-85a4-482a-a2f3-79b981a1aa4e": {
       "id": "b67c659c-85a4-482a-a2f3-79b981a1aa4e",
@@ -1396,7 +1402,7 @@
         {
           "id": "2113f172-a5ca-48cf-9847-c953655afb46",
           "prototypeId": "5d922069-80db-4d70-a9a6-6fce981d5b07",
-          "name": "KPI Connections"
+          "name": "KPI Dashboard"
         },
         {
           "id": "c679b288-7281-4603-a1bb-8c28d929be71",
@@ -1411,11 +1417,11 @@
           "to": "2113f172-a5ca-48cf-9847-c953655afb46",
           "type": "base-connection-prototype",
           "sourceLabel": "Retail Employee Profiles",
-          "targetLabel": "KPI Connections"
+          "targetLabel": "KPI Dashboard"
         }
       ],
-      "text": "Graph: Retail Manager Portal (b67c659c-85a4-482a-a2f3-79b981a1aa4e)\nNodes (2 total):\n- KPI Connections [2113f172-a5ca-48cf-9847-c953655afb46]\n- Retail Employee Profiles [c679b288-7281-4603-a1bb-8c28d929be71]\n\nEdges (1 total):\n- Retail Employee Profiles → KPI Connections (base-connection-prototype)",
-      "computedAt": 1764616606368
+      "text": "Graph: Retail Manager Portal (b67c659c-85a4-482a-a2f3-79b981a1aa4e)\nNodes (2 total):\n- KPI Dashboard [2113f172-a5ca-48cf-9847-c953655afb46]\n- Retail Employee Profiles [c679b288-7281-4603-a1bb-8c28d929be71]\n\nEdges (1 total):\n- Retail Employee Profiles → KPI Dashboard (base-connection-prototype)",
+      "computedAt": 1764616621367
     }
   }
 }
