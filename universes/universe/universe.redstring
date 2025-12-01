@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-12-01T19:16:19.367Z",
-    "modified": "2025-12-01T19:16:19.367Z",
+    "created": "2025-12-01T19:16:25.368Z",
+    "modified": "2025-12-01T19:16:25.368Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -267,7 +267,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:19.367Z"
+          "redstring:lastViewed": "2025-12-01T19:16:25.368Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -312,7 +312,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:19.367Z"
+          "redstring:lastViewed": "2025-12-01T19:16:25.368Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -344,12 +344,14 @@
         "redstring:visualProperties": {
           "redstring:cognitiveColor": "#8B0000"
         },
-        "redstring:definitionGraphIds": [],
+        "redstring:definitionGraphIds": [
+          "b67c659c-85a4-482a-a2f3-79b981a1aa4e"
+        ],
         "redstring:typeNodeId": "base-thing-prototype",
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:19.367Z"
+          "redstring:lastViewed": "2025-12-01T19:16:25.368Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -400,6 +402,27 @@
         "redstring:visualProperties": {
           "redstring:expanded": true,
           "redstring:activeInContext": true
+        }
+      },
+      "b67c659c-85a4-482a-a2f3-79b981a1aa4e": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "graph:b67c659c-85a4-482a-a2f3-79b981a1aa4e",
+        "rdfs:label": "Retail Manager Portal",
+        "rdfs:comment": "",
+        "redstring:definingNodeIds": [
+          "7f84c2a4-3e2a-4ae6-b662-43967278ae24"
+        ],
+        "redstring:edgeIds": [],
+        "redstring:panOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "redstring:zoomLevel": 1,
+        "redstring:instances": {},
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": false,
+          "redstring:activeInContext": false
         }
       }
     }
@@ -452,6 +475,27 @@
         "redstring:expanded": true,
         "redstring:activeInContext": true
       }
+    },
+    "b67c659c-85a4-482a-a2f3-79b981a1aa4e": {
+      "@type": "redstring:SpatialGraph",
+      "@id": "graph:b67c659c-85a4-482a-a2f3-79b981a1aa4e",
+      "rdfs:label": "Retail Manager Portal",
+      "rdfs:comment": "",
+      "redstring:definingNodeIds": [
+        "7f84c2a4-3e2a-4ae6-b662-43967278ae24"
+      ],
+      "redstring:edgeIds": [],
+      "redstring:panOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "redstring:zoomLevel": 1,
+      "redstring:instances": {},
+      "redstring:groups": {},
+      "redstring:visualProperties": {
+        "redstring:expanded": false,
+        "redstring:activeInContext": false
+      }
     }
   },
   "nodePrototypes": {
@@ -485,7 +529,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:16:19.367Z"
+        "redstring:lastViewed": "2025-12-01T19:16:25.368Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -530,7 +574,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:16:19.367Z"
+        "redstring:lastViewed": "2025-12-01T19:16:25.368Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -562,12 +606,14 @@
       "redstring:visualProperties": {
         "redstring:cognitiveColor": "#8B0000"
       },
-      "redstring:definitionGraphIds": [],
+      "redstring:definitionGraphIds": [
+        "b67c659c-85a4-482a-a2f3-79b981a1aa4e"
+      ],
       "redstring:typeNodeId": "base-thing-prototype",
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:16:19.367Z"
+        "redstring:lastViewed": "2025-12-01T19:16:25.368Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -647,6 +693,27 @@
           "redstring:expanded": true,
           "redstring:activeInContext": true
         }
+      },
+      "b67c659c-85a4-482a-a2f3-79b981a1aa4e": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "graph:b67c659c-85a4-482a-a2f3-79b981a1aa4e",
+        "rdfs:label": "Retail Manager Portal",
+        "rdfs:comment": "",
+        "redstring:definingNodeIds": [
+          "7f84c2a4-3e2a-4ae6-b662-43967278ae24"
+        ],
+        "redstring:edgeIds": [],
+        "redstring:panOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "redstring:zoomLevel": 1,
+        "redstring:instances": {},
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": false,
+          "redstring:activeInContext": false
+        }
       }
     },
     "nodePrototypes": {
@@ -680,7 +747,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:19.367Z"
+          "redstring:lastViewed": "2025-12-01T19:16:25.368Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -725,7 +792,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:19.367Z"
+          "redstring:lastViewed": "2025-12-01T19:16:25.368Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -757,12 +824,14 @@
         "redstring:visualProperties": {
           "redstring:cognitiveColor": "#8B0000"
         },
-        "redstring:definitionGraphIds": [],
+        "redstring:definitionGraphIds": [
+          "b67c659c-85a4-482a-a2f3-79b981a1aa4e"
+        ],
         "redstring:typeNodeId": "base-thing-prototype",
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:19.367Z"
+          "redstring:lastViewed": "2025-12-01T19:16:25.368Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -792,7 +861,18 @@
           "x": -311.0387284196113,
           "y": -246.299562030159
         },
-        "computedAt": 1764616579367,
+        "computedAt": 1764616585368,
+        "truncated": false
+      }
+    },
+    "b67c659c-85a4-482a-a2f3-79b981a1aa4e": {
+      "nodes": {},
+      "metadata": {
+        "nodeCount": 0,
+        "edgeCount": 0,
+        "boundingBox": null,
+        "centroid": null,
+        "computedAt": 1764616585368,
         "truncated": false
       }
     }
@@ -816,7 +896,21 @@
       ],
       "edges": [],
       "text": "Graph: New Thing (2d9e3ab0-4aef-40ba-8904-e43ace25e0fd)\nNodes (1 total):\n- Retail Manager Portal [c8dbc7f0-2cd0-4247-bf52-f581e759def3]\n\nEdges (0 total):",
-      "computedAt": 1764616579367
+      "computedAt": 1764616585368
+    },
+    "b67c659c-85a4-482a-a2f3-79b981a1aa4e": {
+      "id": "b67c659c-85a4-482a-a2f3-79b981a1aa4e",
+      "name": "Retail Manager Portal",
+      "description": "",
+      "nodeCount": 0,
+      "edgeCount": 0,
+      "density": 0,
+      "quality": "empty",
+      "score": 0,
+      "nodes": [],
+      "edges": [],
+      "text": "Graph: Retail Manager Portal (b67c659c-85a4-482a-a2f3-79b981a1aa4e)\nNodes (0 total):\n\nEdges (0 total):",
+      "computedAt": 1764616585368
     }
   }
 }
