@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-12-01T19:18:03.992Z",
-    "modified": "2025-12-01T19:18:03.992Z",
+    "created": "2025-12-01T19:18:27.457Z",
+    "modified": "2025-12-01T19:18:27.457Z",
     "title": "Retail Manager Portal",
     "description": "",
     "domain": null,
@@ -267,7 +267,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+          "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -312,7 +312,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+          "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -351,7 +351,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+          "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -388,7 +388,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+          "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -425,7 +425,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+          "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -460,7 +460,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+          "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -495,7 +495,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+          "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -506,9 +506,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:6d136799-542e-4df4-b5d6-d185dfea2ee4",
-        "rdfs:label": "Retail Menu Control Panel",
+        "rdfs:label": "Retail Menu Settings",
         "rdfs:comment": "",
-        "name": "Retail Menu Control Panel",
+        "name": "Retail Menu Settings",
         "description": "",
         "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
@@ -532,7 +532,44 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+          "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "2a597549-57b0-4a22-b9ef-226aa1635391": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:2a597549-57b0-4a22-b9ef-226aa1635391",
+        "rdfs:label": "HG Retail Menus",
+        "rdfs:comment": "",
+        "name": "HG Retail Menus",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "type:base-thing-prototype"
+        },
+        "owl:sameAs": [],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -597,10 +634,10 @@
           "136d02ab-ccc8-4e94-b682-174d39fdb1eb"
         ],
         "redstring:panOffset": {
-          "x": -34230.931316726295,
-          "y": -34984.33179767866
+          "x": -22431.497662066453,
+          "y": -22817.501071372953
         },
-        "redstring:zoomLevel": 0.7097737937666081,
+        "redstring:zoomLevel": 0.4674951737932588,
         "redstring:instances": {
           "2113f172-a5ca-48cf-9847-c953655afb46": {
             "@type": "redstring:Instance",
@@ -748,10 +785,10 @@
         "136d02ab-ccc8-4e94-b682-174d39fdb1eb"
       ],
       "redstring:panOffset": {
-        "x": -34230.931316726295,
-        "y": -34984.33179767866
+        "x": -22431.497662066453,
+        "y": -22817.501071372953
       },
-      "redstring:zoomLevel": 0.7097737937666081,
+      "redstring:zoomLevel": 0.4674951737932588,
       "redstring:instances": {
         "2113f172-a5ca-48cf-9847-c953655afb46": {
           "@type": "redstring:Instance",
@@ -849,7 +886,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+        "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -894,7 +931,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+        "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -933,7 +970,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+        "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -970,7 +1007,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+        "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -1007,7 +1044,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+        "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -1042,7 +1079,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+        "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -1077,7 +1114,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+        "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -1088,9 +1125,9 @@
         "schema:Thing"
       ],
       "@id": "prototype:6d136799-542e-4df4-b5d6-d185dfea2ee4",
-      "rdfs:label": "Retail Menu Control Panel",
+      "rdfs:label": "Retail Menu Settings",
       "rdfs:comment": "",
-      "name": "Retail Menu Control Panel",
+      "name": "Retail Menu Settings",
       "description": "",
       "rdfs:seeAlso": [],
       "rdfs:isDefinedBy": {
@@ -1114,7 +1151,44 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+        "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
+      },
+      "redstring:abstractionChains": {}
+    },
+    "2a597549-57b0-4a22-b9ef-226aa1635391": {
+      "@type": [
+        "redstring:Prototype",
+        "rdfs:Class",
+        "schema:Thing"
+      ],
+      "@id": "prototype:2a597549-57b0-4a22-b9ef-226aa1635391",
+      "rdfs:label": "HG Retail Menus",
+      "rdfs:comment": "",
+      "name": "HG Retail Menus",
+      "description": "",
+      "rdfs:seeAlso": [],
+      "rdfs:isDefinedBy": {
+        "@id": "https://redstring.io"
+      },
+      "rdfs:subClassOf": {
+        "@id": "type:base-thing-prototype"
+      },
+      "owl:sameAs": [],
+      "owl:equivalentClass": [],
+      "redstring:spatialContext": {
+        "redstring:xCoordinate": 0,
+        "redstring:yCoordinate": 0,
+        "redstring:spatialScale": 1
+      },
+      "redstring:visualProperties": {
+        "redstring:cognitiveColor": "#8B0000"
+      },
+      "redstring:definitionGraphIds": [],
+      "redstring:typeNodeId": "base-thing-prototype",
+      "redstring:citations": [],
+      "redstring:cognitiveProperties": {
+        "redstring:bookmarked": false,
+        "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -1177,7 +1251,7 @@
       {
         "type": "node",
         "nodeId": "6d136799-542e-4df4-b5d6-d185dfea2ee4",
-        "title": "Retail Menu Control Panel",
+        "title": "Retail Menu Settings",
         "isActive": true
       }
     ],
@@ -1240,10 +1314,10 @@
           "136d02ab-ccc8-4e94-b682-174d39fdb1eb"
         ],
         "redstring:panOffset": {
-          "x": -34230.931316726295,
-          "y": -34984.33179767866
+          "x": -22431.497662066453,
+          "y": -22817.501071372953
         },
-        "redstring:zoomLevel": 0.7097737937666081,
+        "redstring:zoomLevel": 0.4674951737932588,
         "redstring:instances": {
           "2113f172-a5ca-48cf-9847-c953655afb46": {
             "@type": "redstring:Instance",
@@ -1341,7 +1415,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+          "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1386,7 +1460,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+          "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1425,7 +1499,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+          "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1462,7 +1536,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+          "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1499,7 +1573,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+          "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1534,7 +1608,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+          "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1569,7 +1643,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+          "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1580,9 +1654,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:6d136799-542e-4df4-b5d6-d185dfea2ee4",
-        "rdfs:label": "Retail Menu Control Panel",
+        "rdfs:label": "Retail Menu Settings",
         "rdfs:comment": "",
-        "name": "Retail Menu Control Panel",
+        "name": "Retail Menu Settings",
         "description": "",
         "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
@@ -1606,7 +1680,44 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:18:03.992Z"
+          "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "2a597549-57b0-4a22-b9ef-226aa1635391": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:2a597549-57b0-4a22-b9ef-226aa1635391",
+        "rdfs:label": "HG Retail Menus",
+        "rdfs:comment": "",
+        "name": "HG Retail Menus",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "type:base-thing-prototype"
+        },
+        "owl:sameAs": [],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-12-01T19:18:27.457Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1655,7 +1766,7 @@
           "x": -311.0387284196113,
           "y": -246.299562030159
         },
-        "computedAt": 1764616683992,
+        "computedAt": 1764616707457,
         "truncated": false
       }
     },
@@ -1693,7 +1804,7 @@
           "x": -437.62442861283245,
           "y": -208.23357758547596
         },
-        "computedAt": 1764616683992,
+        "computedAt": 1764616707457,
         "truncated": false
       }
     }
@@ -1717,7 +1828,7 @@
       ],
       "edges": [],
       "text": "Graph: New Thing (2d9e3ab0-4aef-40ba-8904-e43ace25e0fd)\nNodes (1 total):\n- Retail Manager Portal [c8dbc7f0-2cd0-4247-bf52-f581e759def3]\n\nEdges (0 total):",
-      "computedAt": 1764616683992
+      "computedAt": 1764616707457
     },
     "b67c659c-85a4-482a-a2f3-79b981a1aa4e": {
       "id": "b67c659c-85a4-482a-a2f3-79b981a1aa4e",
@@ -1742,7 +1853,7 @@
         {
           "id": "add286d1-e59d-47bc-94bc-1a3eb6d9d095",
           "prototypeId": "6d136799-542e-4df4-b5d6-d185dfea2ee4",
-          "name": "Retail Menu Control Panel"
+          "name": "Retail Menu Settings"
         }
       ],
       "edges": [
@@ -1755,8 +1866,8 @@
           "targetLabel": "KPI Dashboard"
         }
       ],
-      "text": "Graph: Retail Manager Portal (b67c659c-85a4-482a-a2f3-79b981a1aa4e)\nNodes (3 total):\n- KPI Dashboard [2113f172-a5ca-48cf-9847-c953655afb46]\n- Retail Employee Profiles [c679b288-7281-4603-a1bb-8c28d929be71]\n- Retail Menu Control Panel [add286d1-e59d-47bc-94bc-1a3eb6d9d095]\n\nEdges (1 total):\n- Retail Employee Profiles → KPI Dashboard (base-connection-prototype)",
-      "computedAt": 1764616683992
+      "text": "Graph: Retail Manager Portal (b67c659c-85a4-482a-a2f3-79b981a1aa4e)\nNodes (3 total):\n- KPI Dashboard [2113f172-a5ca-48cf-9847-c953655afb46]\n- Retail Employee Profiles [c679b288-7281-4603-a1bb-8c28d929be71]\n- Retail Menu Settings [add286d1-e59d-47bc-94bc-1a3eb6d9d095]\n\nEdges (1 total):\n- Retail Employee Profiles → KPI Dashboard (base-connection-prototype)",
+      "computedAt": 1764616707457
     }
   }
 }
