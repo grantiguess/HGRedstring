@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-12-01T19:16:37.367Z",
-    "modified": "2025-12-01T19:16:37.367Z",
+    "created": "2025-12-01T19:16:43.367Z",
+    "modified": "2025-12-01T19:16:43.367Z",
     "title": "Retail Manager Portal",
     "description": "",
     "domain": null,
@@ -267,7 +267,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:37.367Z"
+          "redstring:lastViewed": "2025-12-01T19:16:43.367Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -312,7 +312,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:37.367Z"
+          "redstring:lastViewed": "2025-12-01T19:16:43.367Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -351,7 +351,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:37.367Z"
+          "redstring:lastViewed": "2025-12-01T19:16:43.367Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -388,7 +388,44 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:37.367Z"
+          "redstring:lastViewed": "2025-12-01T19:16:43.367Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "075c54f4-8131-431c-9c13-644f03f0a1d5": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:075c54f4-8131-431c-9c13-644f03f0a1d5",
+        "rdfs:label": "Retail Employee Profiles",
+        "rdfs:comment": "",
+        "name": "Retail Employee Profiles",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "type:base-thing-prototype"
+        },
+        "owl:sameAs": [],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-12-01T19:16:43.367Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -451,10 +488,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -49040,
-          "y": -49563.5
+          "x": -17061.58195954717,
+          "y": -17835.859890142678
         },
-        "redstring:zoomLevel": 1,
+        "redstring:zoomLevel": 0.3624746087214089,
         "redstring:instances": {
           "2113f172-a5ca-48cf-9847-c953655afb46": {
             "@type": "redstring:Instance",
@@ -474,6 +511,25 @@
             },
             "redstring:visualProperties": {},
             "redstring:prototypeId": "5d922069-80db-4d70-a9a6-6fce981d5b07"
+          },
+          "c679b288-7281-4603-a1bb-8c28d929be71": {
+            "@type": "redstring:Instance",
+            "@id": "instance:c679b288-7281-4603-a1bb-8c28d929be71",
+            "rdf:type": {
+              "@id": "prototype:075c54f4-8131-431c-9c13-644f03f0a1d5"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "graph:b67c659c-85a4-482a-a2f3-79b981a1aa4e"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -710.4488469960997,
+              "redstring:yCoordinate": -120.61320856513339,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "075c54f4-8131-431c-9c13-644f03f0a1d5"
           }
         },
         "redstring:groups": {},
@@ -543,10 +599,10 @@
       ],
       "redstring:edgeIds": [],
       "redstring:panOffset": {
-        "x": -49040,
-        "y": -49563.5
+        "x": -17061.58195954717,
+        "y": -17835.859890142678
       },
-      "redstring:zoomLevel": 1,
+      "redstring:zoomLevel": 0.3624746087214089,
       "redstring:instances": {
         "2113f172-a5ca-48cf-9847-c953655afb46": {
           "@type": "redstring:Instance",
@@ -566,6 +622,25 @@
           },
           "redstring:visualProperties": {},
           "redstring:prototypeId": "5d922069-80db-4d70-a9a6-6fce981d5b07"
+        },
+        "c679b288-7281-4603-a1bb-8c28d929be71": {
+          "@type": "redstring:Instance",
+          "@id": "instance:c679b288-7281-4603-a1bb-8c28d929be71",
+          "rdf:type": {
+            "@id": "prototype:075c54f4-8131-431c-9c13-644f03f0a1d5"
+          },
+          "rdfs:label": null,
+          "rdfs:comment": null,
+          "redstring:containedIn": {
+            "@id": "graph:b67c659c-85a4-482a-a2f3-79b981a1aa4e"
+          },
+          "redstring:spatialContext": {
+            "redstring:xCoordinate": -710.4488469960997,
+            "redstring:yCoordinate": -120.61320856513339,
+            "redstring:spatialScale": 1
+          },
+          "redstring:visualProperties": {},
+          "redstring:prototypeId": "075c54f4-8131-431c-9c13-644f03f0a1d5"
         }
       },
       "redstring:groups": {},
@@ -606,7 +681,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:16:37.367Z"
+        "redstring:lastViewed": "2025-12-01T19:16:43.367Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -651,7 +726,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:16:37.367Z"
+        "redstring:lastViewed": "2025-12-01T19:16:43.367Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -690,7 +765,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:16:37.367Z"
+        "redstring:lastViewed": "2025-12-01T19:16:43.367Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -727,7 +802,44 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:16:37.367Z"
+        "redstring:lastViewed": "2025-12-01T19:16:43.367Z"
+      },
+      "redstring:abstractionChains": {}
+    },
+    "075c54f4-8131-431c-9c13-644f03f0a1d5": {
+      "@type": [
+        "redstring:Prototype",
+        "rdfs:Class",
+        "schema:Thing"
+      ],
+      "@id": "prototype:075c54f4-8131-431c-9c13-644f03f0a1d5",
+      "rdfs:label": "Retail Employee Profiles",
+      "rdfs:comment": "",
+      "name": "Retail Employee Profiles",
+      "description": "",
+      "rdfs:seeAlso": [],
+      "rdfs:isDefinedBy": {
+        "@id": "https://redstring.io"
+      },
+      "rdfs:subClassOf": {
+        "@id": "type:base-thing-prototype"
+      },
+      "owl:sameAs": [],
+      "owl:equivalentClass": [],
+      "redstring:spatialContext": {
+        "redstring:xCoordinate": 0,
+        "redstring:yCoordinate": 0,
+        "redstring:spatialScale": 1
+      },
+      "redstring:visualProperties": {
+        "redstring:cognitiveColor": "#8B0000"
+      },
+      "redstring:definitionGraphIds": [],
+      "redstring:typeNodeId": "base-thing-prototype",
+      "redstring:citations": [],
+      "redstring:cognitiveProperties": {
+        "redstring:bookmarked": false,
+        "redstring:lastViewed": "2025-12-01T19:16:43.367Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -820,10 +932,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -49040,
-          "y": -49563.5
+          "x": -17061.58195954717,
+          "y": -17835.859890142678
         },
-        "redstring:zoomLevel": 1,
+        "redstring:zoomLevel": 0.3624746087214089,
         "redstring:instances": {
           "2113f172-a5ca-48cf-9847-c953655afb46": {
             "@type": "redstring:Instance",
@@ -843,6 +955,25 @@
             },
             "redstring:visualProperties": {},
             "redstring:prototypeId": "5d922069-80db-4d70-a9a6-6fce981d5b07"
+          },
+          "c679b288-7281-4603-a1bb-8c28d929be71": {
+            "@type": "redstring:Instance",
+            "@id": "instance:c679b288-7281-4603-a1bb-8c28d929be71",
+            "rdf:type": {
+              "@id": "prototype:075c54f4-8131-431c-9c13-644f03f0a1d5"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "graph:b67c659c-85a4-482a-a2f3-79b981a1aa4e"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -710.4488469960997,
+              "redstring:yCoordinate": -120.61320856513339,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "075c54f4-8131-431c-9c13-644f03f0a1d5"
           }
         },
         "redstring:groups": {},
@@ -883,7 +1014,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:37.367Z"
+          "redstring:lastViewed": "2025-12-01T19:16:43.367Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -928,7 +1059,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:37.367Z"
+          "redstring:lastViewed": "2025-12-01T19:16:43.367Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -967,7 +1098,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:37.367Z"
+          "redstring:lastViewed": "2025-12-01T19:16:43.367Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1004,7 +1135,44 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:16:37.367Z"
+          "redstring:lastViewed": "2025-12-01T19:16:43.367Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "075c54f4-8131-431c-9c13-644f03f0a1d5": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:075c54f4-8131-431c-9c13-644f03f0a1d5",
+        "rdfs:label": "Retail Employee Profiles",
+        "rdfs:comment": "",
+        "name": "Retail Employee Profiles",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "type:base-thing-prototype"
+        },
+        "owl:sameAs": [],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-12-01T19:16:43.367Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1034,7 +1202,7 @@
           "x": -311.0387284196113,
           "y": -246.299562030159
         },
-        "computedAt": 1764616597367,
+        "computedAt": 1764616603367,
         "truncated": false
       }
     },
@@ -1045,22 +1213,28 @@
           "y": -206.5,
           "scale": 1,
           "prototypeId": "5d922069-80db-4d70-a9a6-6fce981d5b07"
+        },
+        "c679b288-7281-4603-a1bb-8c28d929be71": {
+          "x": -710.4488469960997,
+          "y": -120.61320856513339,
+          "scale": 1,
+          "prototypeId": "075c54f4-8131-431c-9c13-644f03f0a1d5"
         }
       },
       "metadata": {
-        "nodeCount": 1,
+        "nodeCount": 2,
         "edgeCount": 0,
         "boundingBox": {
-          "minX": -122.5,
+          "minX": -710.4488469960997,
           "minY": -206.5,
           "maxX": -122.5,
-          "maxY": -206.5
+          "maxY": -120.61320856513339
         },
         "centroid": {
-          "x": -122.5,
-          "y": -206.5
+          "x": -416.4744234980499,
+          "y": -163.5566042825667
         },
-        "computedAt": 1764616597367,
+        "computedAt": 1764616603367,
         "truncated": false
       }
     }
@@ -1084,27 +1258,32 @@
       ],
       "edges": [],
       "text": "Graph: New Thing (2d9e3ab0-4aef-40ba-8904-e43ace25e0fd)\nNodes (1 total):\n- Retail Manager Portal [c8dbc7f0-2cd0-4247-bf52-f581e759def3]\n\nEdges (0 total):",
-      "computedAt": 1764616597367
+      "computedAt": 1764616603367
     },
     "b67c659c-85a4-482a-a2f3-79b981a1aa4e": {
       "id": "b67c659c-85a4-482a-a2f3-79b981a1aa4e",
       "name": "Retail Manager Portal",
       "description": "",
-      "nodeCount": 1,
+      "nodeCount": 2,
       "edgeCount": 0,
       "density": 0,
-      "quality": "single",
-      "score": 10,
+      "quality": "disconnected",
+      "score": 5,
       "nodes": [
         {
           "id": "2113f172-a5ca-48cf-9847-c953655afb46",
           "prototypeId": "5d922069-80db-4d70-a9a6-6fce981d5b07",
           "name": "KPI Connections"
+        },
+        {
+          "id": "c679b288-7281-4603-a1bb-8c28d929be71",
+          "prototypeId": "075c54f4-8131-431c-9c13-644f03f0a1d5",
+          "name": "Retail Employee Profiles"
         }
       ],
       "edges": [],
-      "text": "Graph: Retail Manager Portal (b67c659c-85a4-482a-a2f3-79b981a1aa4e)\nNodes (1 total):\n- KPI Connections [2113f172-a5ca-48cf-9847-c953655afb46]\n\nEdges (0 total):",
-      "computedAt": 1764616597367
+      "text": "Graph: Retail Manager Portal (b67c659c-85a4-482a-a2f3-79b981a1aa4e)\nNodes (2 total):\n- KPI Connections [2113f172-a5ca-48cf-9847-c953655afb46]\n- Retail Employee Profiles [c679b288-7281-4603-a1bb-8c28d929be71]\n\nEdges (0 total):",
+      "computedAt": 1764616603367
     }
   }
 }
