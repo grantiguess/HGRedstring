@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-12-01T19:17:13.367Z",
-    "modified": "2025-12-01T19:17:13.367Z",
+    "created": "2025-12-01T19:17:22.368Z",
+    "modified": "2025-12-01T19:17:22.368Z",
     "title": "Retail Manager Portal",
     "description": "",
     "domain": null,
@@ -267,7 +267,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+          "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -312,7 +312,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+          "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -351,7 +351,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+          "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -388,7 +388,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+          "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -425,7 +425,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+          "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -460,7 +460,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+          "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -495,7 +495,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+          "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -560,10 +560,10 @@
           "136d02ab-ccc8-4e94-b682-174d39fdb1eb"
         ],
         "redstring:panOffset": {
-          "x": -23762.721290643323,
-          "y": -24422.341435841317
+          "x": -35583.35324148603,
+          "y": -36515.34403044591
         },
-        "redstring:zoomLevel": 0.4960106467509039,
+        "redstring:zoomLevel": 0.7398031343329234,
         "redstring:instances": {
           "2113f172-a5ca-48cf-9847-c953655afb46": {
             "@type": "redstring:Instance",
@@ -577,9 +577,9 @@
               "@id": "graph:b67c659c-85a4-482a-a2f3-79b981a1aa4e"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": -122.5,
-              "redstring:yCoordinate": -206.5,
-              "redstring:spatialScale": 1
+              "redstring:xCoordinate": -353.642573022742,
+              "redstring:yCoordinate": -184.87262474640738,
+              "redstring:spatialScale": 1.1
             },
             "redstring:visualProperties": {},
             "redstring:prototypeId": "5d922069-80db-4d70-a9a6-6fce981d5b07"
@@ -692,10 +692,10 @@
         "136d02ab-ccc8-4e94-b682-174d39fdb1eb"
       ],
       "redstring:panOffset": {
-        "x": -23762.721290643323,
-        "y": -24422.341435841317
+        "x": -35583.35324148603,
+        "y": -36515.34403044591
       },
-      "redstring:zoomLevel": 0.4960106467509039,
+      "redstring:zoomLevel": 0.7398031343329234,
       "redstring:instances": {
         "2113f172-a5ca-48cf-9847-c953655afb46": {
           "@type": "redstring:Instance",
@@ -709,9 +709,9 @@
             "@id": "graph:b67c659c-85a4-482a-a2f3-79b981a1aa4e"
           },
           "redstring:spatialContext": {
-            "redstring:xCoordinate": -122.5,
-            "redstring:yCoordinate": -206.5,
-            "redstring:spatialScale": 1
+            "redstring:xCoordinate": -353.642573022742,
+            "redstring:yCoordinate": -184.87262474640738,
+            "redstring:spatialScale": 1.1
           },
           "redstring:visualProperties": {},
           "redstring:prototypeId": "5d922069-80db-4d70-a9a6-6fce981d5b07"
@@ -774,7 +774,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+        "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -819,7 +819,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+        "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -858,7 +858,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+        "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -895,7 +895,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+        "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -932,7 +932,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+        "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -967,7 +967,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+        "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -1002,7 +1002,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+        "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -1065,7 +1065,7 @@
     ],
     "redstring:savedNodeIds": [],
     "redstring:savedGraphIds": [],
-    "redstring:showConnectionNames": false
+    "redstring:showConnectionNames": true
   },
   "legacy": {
     "graphs": {
@@ -1122,10 +1122,10 @@
           "136d02ab-ccc8-4e94-b682-174d39fdb1eb"
         ],
         "redstring:panOffset": {
-          "x": -23762.721290643323,
-          "y": -24422.341435841317
+          "x": -35583.35324148603,
+          "y": -36515.34403044591
         },
-        "redstring:zoomLevel": 0.4960106467509039,
+        "redstring:zoomLevel": 0.7398031343329234,
         "redstring:instances": {
           "2113f172-a5ca-48cf-9847-c953655afb46": {
             "@type": "redstring:Instance",
@@ -1139,9 +1139,9 @@
               "@id": "graph:b67c659c-85a4-482a-a2f3-79b981a1aa4e"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": -122.5,
-              "redstring:yCoordinate": -206.5,
-              "redstring:spatialScale": 1
+              "redstring:xCoordinate": -353.642573022742,
+              "redstring:yCoordinate": -184.87262474640738,
+              "redstring:spatialScale": 1.1
             },
             "redstring:visualProperties": {},
             "redstring:prototypeId": "5d922069-80db-4d70-a9a6-6fce981d5b07"
@@ -1204,7 +1204,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+          "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1249,7 +1249,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+          "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1288,7 +1288,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+          "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1325,7 +1325,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+          "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1362,7 +1362,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+          "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1397,7 +1397,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+          "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1432,7 +1432,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-01T19:17:13.367Z"
+          "redstring:lastViewed": "2025-12-01T19:17:22.368Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1481,16 +1481,16 @@
           "x": -311.0387284196113,
           "y": -246.299562030159
         },
-        "computedAt": 1764616633367,
+        "computedAt": 1764616642368,
         "truncated": false
       }
     },
     "b67c659c-85a4-482a-a2f3-79b981a1aa4e": {
       "nodes": {
         "2113f172-a5ca-48cf-9847-c953655afb46": {
-          "x": -122.5,
-          "y": -206.5,
-          "scale": 1,
+          "x": -353.642573022742,
+          "y": -184.87262474640738,
+          "scale": 1.1,
           "prototypeId": "5d922069-80db-4d70-a9a6-6fce981d5b07"
         },
         "c679b288-7281-4603-a1bb-8c28d929be71": {
@@ -1505,15 +1505,15 @@
         "edgeCount": 1,
         "boundingBox": {
           "minX": -1008.193268919189,
-          "minY": -206.5,
-          "maxX": -122.5,
-          "maxY": -206.43365959001676
+          "minY": -206.43365959001676,
+          "maxX": -353.642573022742,
+          "maxY": -184.87262474640738
         },
         "centroid": {
-          "x": -565.3466344595945,
-          "y": -206.46682979500838
+          "x": -680.9179209709655,
+          "y": -195.65314216821207
         },
-        "computedAt": 1764616633367,
+        "computedAt": 1764616642368,
         "truncated": false
       }
     }
@@ -1537,7 +1537,7 @@
       ],
       "edges": [],
       "text": "Graph: New Thing (2d9e3ab0-4aef-40ba-8904-e43ace25e0fd)\nNodes (1 total):\n- Retail Manager Portal [c8dbc7f0-2cd0-4247-bf52-f581e759def3]\n\nEdges (0 total):",
-      "computedAt": 1764616633367
+      "computedAt": 1764616642368
     },
     "b67c659c-85a4-482a-a2f3-79b981a1aa4e": {
       "id": "b67c659c-85a4-482a-a2f3-79b981a1aa4e",
@@ -1571,7 +1571,7 @@
         }
       ],
       "text": "Graph: Retail Manager Portal (b67c659c-85a4-482a-a2f3-79b981a1aa4e)\nNodes (2 total):\n- KPI Dashboard [2113f172-a5ca-48cf-9847-c953655afb46]\n- Retail Employee Profiles [c679b288-7281-4603-a1bb-8c28d929be71]\n\nEdges (1 total):\n- Retail Employee Profiles → KPI Dashboard (base-connection-prototype)",
-      "computedAt": 1764616633367
+      "computedAt": 1764616642368
     }
   }
 }
